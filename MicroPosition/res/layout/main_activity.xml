@@ -1,0 +1,120 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:layout_margin="0dp"
+    android:padding="0dp">
+
+    <FrameLayout
+        android:id="@+id/content"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" >
+    </FrameLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_margin="0dp"
+        android:padding="0dp"
+        >
+
+        <RelativeLayout
+            android:id="@+id/layout_view_map"
+            android:layout_width="0dp"
+            android:background="#ffffff"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:orientation="vertical" >
+
+                
+                <TextView
+                    android:id="@+id/tv_view_map"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:text="地图"
+                    android:textColor="#82858b"
+                    android:layout_marginTop="11dp"
+                    android:layout_marginBottom="8dp" />
+                <ImageView
+                    android:id="@+id/iv_view_map"
+                    android:layout_width="fill_parent"
+                    android:layout_height="7dp"
+                    android:layout_gravity="center_horizontal" />
+                
+            </LinearLayout>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/layout_create_qrcode"
+            android:layout_width="0dp"
+            android:background="#ffffff"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:orientation="vertical" >
+
+               
+                <TextView
+                    android:id="@+id/tv_create_qrcode"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:text="二维码"
+                    android:textColor="#82858b"
+                    android:layout_marginTop="11dp"
+                    android:layout_marginBottom="8dp" />
+                 <ImageView
+                    android:id="@+id/iv_create_qrcode"
+                    android:layout_width="fill_parent"
+                    android:layout_height="7dp"
+                    android:layout_gravity="center_horizontal" />
+                
+            </LinearLayout>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/layout_scan_qrcode"
+            android:layout_width="0dp"
+            android:background="#ffffff"
+            android:layout_height="match_parent"
+            android:layout_weight="1" 
+            >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/tv_scan_qrcode"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:text="扫一扫"
+                    android:textColor="#82858b" 
+                    android:layout_marginTop="11dp"
+                    android:layout_marginBottom="8dp"/>
+                <ImageView
+                    android:id="@+id/iv_scan_qrcode"
+                    android:layout_width="fill_parent"
+                    android:layout_height="7dp"
+                    android:layout_gravity="center_horizontal" />
+            </LinearLayout>
+        </RelativeLayout>
+    </LinearLayout>
+
+</LinearLayout>

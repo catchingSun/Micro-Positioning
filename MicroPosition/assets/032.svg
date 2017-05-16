@@ -1,0 +1,1136 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- 由 Microsoft Visio 11.0, SVG Export, v1.0 生成 032.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="13.7795in" height="23.3858in" viewBox="0 0 992.126 1683.78" xml:space="preserve" color-interpolation-filters="sRGB" class="st19">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="VisAecDocument" v:val="VT0(1):26" />
+			<v:ud v:nameU="VisAecVersion" v:val="VT0(12):26" />
+			<v:ud v:nameU="Ifc__CustomPropsLevel" v:val="VT0(0):26" />
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26" />
+			<v:ud v:nameU="msvLastAppliedDataGraphic" v:val="VT4()" />
+		</v:userDefs>
+	</v:documentProperties>
+	<style type="text/css">
+		<![CDATA[
+		.st1 {fill:#3475cd;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:8.24}
+		.st2 {fill:#000000;font-family:宋体;font-size:4.99999em}
+		.st3 {fill:#ccff66;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:8.24}
+		.st4 {fill:#000000;font-family:宋体;font-size:3em}
+		.st5 {fill:#000000;font-family:宋体;font-size:1.5em}
+		.st6 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:6.24}
+		.st7 {fill:#000000;font-family:宋体;font-size:0.666664em}
+		.st8 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:6.24}
+		.st9 {fill:#edcdcb;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:8.24}
+		.st10 {fill:#4bacc6;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:8.24}
+		.st11 {fill:#000000;font-family:宋体;font-size:4.00001em}
+		.st12 {fill:#edcdcb;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st13 {fill:#ccff66;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st14 {fill:#729fdc;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st15 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st16 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:8.24}
+		.st17 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:8.24}
+		.st18 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:8.08}
+		.st19 {fill:none;fill-rule:evenodd;font-size:12;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+			]]>
+	</style>
+	<script>
+	function news03201(){
+	alert("三教201:教室类型:普通教室;大小:小型教室;容纳人数:50;。")
+	}
+	function news03202(){
+	alert("三教202：教师--中场休息室。")
+	}
+	
+	function news03203(){
+	alert("三教203：教室类型:多媒体;大小:中型教室;容纳人数:153;。")
+	}
+	
+	function news03204(){
+	alert("三教204：教室类型:多媒体;大小:中型教室;容纳人数:153;。")
+	}
+	
+	function news03205(){
+	alert("三教205：教室类型:多媒体;大小:中型教室;容纳人数:153;。")
+	}
+	
+	function news03206(){
+	alert("三教206：教师--中场休息室。")
+	}
+	
+	function news03207(){
+	alert("三教207：教室类型:多媒体;大小:中型教室;容纳人数:153;。")
+	}
+	
+	function news03208(){
+	alert("三教208：教室类型:多媒体;大小:大型教室;容纳人数:300;")
+	}
+	
+	function news03209(){
+	alert("三教209：大教室，多媒体，能容纳120人。")
+	}
+	
+	function news03210(){
+	alert("三教210：卫生阿姨的工作室，爱护卫生噢。")
+	}
+	
+	function news03211(){
+	alert("三教211：教室类型:多媒体;大小:中型教室;容纳人数:153;。")
+	}
+	
+	function news03212(){
+	alert("三教212：教室类型:多媒体;大小:中型教室;容纳人数:153;。")
+	}
+	function news03213(){
+	alert("三教213：教室类型:多媒体;大小:中型教室;容纳人数:153;。")
+	}
+	function news03214(){
+	alert("三教214：配电室。")
+	}
+	function news03215(){
+	alert("三教215：卫生阿姨的工作室，爱护卫生噢。")
+	}
+	function news03216(){
+	alert("三教216：教室类型:普通教室;大小:小型教室;容纳人数:50;。")
+	}
+	function news03217(){
+	alert("三教217：教室类型:多媒体;大小:大型教室;容纳人数:300;。")
+	}
+	</script>
+	<v:custProps>
+		<v:cp v:nameU="VisDoorFrameWidth" v:lbl="门框宽度" v:type="4" v:format="10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:sortKey="0" v:invis="true" v:langID="2052" v:cal="0" v:val="VT4(50 mm)" />
+		<v:cp v:nameU="VisDoorFrameDepth" v:lbl="门框深度" v:type="4" v:format="墙框;100 mm;150 mm;200 mm;250 mm;300 mm" v:sortKey="0" v:invis="true" v:langID="2052" v:cal="0" v:val="VT4(50 mm)" />
+		<v:cp v:nameU="VisDoorStopWidth" v:lbl="门挡宽度" v:type="4" v:format="10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:sortKey="0" v:invis="true" v:langID="2052" v:cal="0" v:val="VT4(20 mm)" />
+		<v:cp v:nameU="VisDoorStopDepth" v:lbl="门挡深度" v:type="4" v:format="10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:sortKey="0" v:invis="true" v:langID="2052" v:cal="0" v:val="VT4(50 mm)" />
+		<v:cp v:nameU="VisDoorThresDepthIn" v:lbl="门槛内宽度" v:type="4" v:format="10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:sortKey="0" v:invis="true" v:langID="2052" v:cal="0" v:val="VT4(50 mm)" />
+		<v:cp v:nameU="VisDoorThresWidthIn" v:lbl="门槛内深度" v:type="4" v:format="0 mm;10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:sortKey="0" v:invis="true" v:langID="2052" v:cal="0" v:val="VT4(50 mm)" />
+		<v:cp v:nameU="VisDoorThresDepthOut" v:lbl="门槛外深度" v:type="4" v:format="0 mm;10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:sortKey="0" v:invis="true" v:langID="2052" v:cal="0" v:val="VT4(50 mm)" />
+		<v:cp v:nameU="VisDoorThresWidthOut" v:lbl="门槛外宽度" v:type="4" v:format="0 mm;10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:sortKey="0" v:invis="true" v:langID="2052" v:cal="0" v:val="VT4(50 mm)" />
+		<v:cp v:nameU="VisDoorPanelThickness" v:lbl="门板厚度" v:type="4" v:format="10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:sortKey="0" v:invis="true" v:langID="2052" v:cal="0" v:val="VT4(50 mm)" />
+		<v:cp v:nameU="VisWndwFrameDepth" v:lbl="窗框深度" v:type="4" v:format="墙框;100 mm;150 mm;200 mm;250 mm;300 mm" v:sortKey="0" v:invis="true" v:langID="2052" v:cal="0" v:val="VT4(200 mm)" />
+		<v:cp v:nameU="VisWndwFrameWidth" v:lbl="窗框宽度" v:type="4" v:format="10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:sortKey="0" v:invis="true" v:langID="2052" v:cal="0" v:val="VT4(50 mm)" />
+		<v:cp v:nameU="VisWndwSashDepth" v:lbl="窗扇深度" v:type="4" v:format="10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:sortKey="0" v:invis="true" v:langID="2052" v:cal="0" v:val="VT4(50 mm)" />
+		<v:cp v:nameU="VisWndwSashWidth" v:lbl="窗扇宽度" v:type="4" v:format="5 mm;10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:sortKey="0" v:invis="true" v:langID="2052" v:cal="0" v:val="VT4(50 mm)" />
+		<v:cp v:nameU="VisWndwSillDepthIn" v:lbl="窗台的内深度" v:type="4" v:format="0 mm;10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:sortKey="0" v:invis="true" v:langID="2052" v:cal="0" v:val="VT4(50 mm)" />
+		<v:cp v:nameU="VisWndwSillWidthIn" v:lbl="窗台的内宽度" v:type="4" v:format="0 mm;10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:sortKey="0" v:invis="true" v:langID="2052" v:cal="0" v:val="VT4(50 mm)" />
+		<v:cp v:nameU="VisWndwSillDepthOut" v:lbl="窗台的外深度" v:type="4" v:format="0 mm;10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:sortKey="0" v:invis="true" v:langID="2052" v:cal="0" v:val="VT4(50 mm)" />
+		<v:cp v:nameU="VisWndwSillWidthOut" v:lbl="窗台的外宽度" v:type="4" v:format="0 mm;10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:sortKey="0" v:invis="true" v:langID="2052" v:cal="0" v:val="VT4(50 mm)" />
+	</v:custProps>
+	<v:userDefs>
+		<v:ud v:nameU="VisAecPage" v:val="VT0(1):26" />
+		<v:ud v:nameU="LineStyleIndex" v:val="VT0(0):26" />
+		<v:ud v:nameU="VisDoorPanelsClosed" v:prompt="Show all doors closed" v:val="VT0(0):26" />
+		<v:ud v:nameU="VisDoorShowHeader" v:prompt="Show all door headers" v:val="VT0(0):26" />
+		<v:ud v:nameU="VisDoorShowPanel" v:prompt="Show all door panels" v:val="VT0(1):26" />
+		<v:ud v:nameU="VisDoorShowSwing" v:prompt="Show all door swings" v:val="VT0(1):26" />
+		<v:ud v:nameU="VisDoorShowThreshold" v:prompt="Show all door thresholds" v:val="VT0(0):26" />
+		<v:ud v:nameU="VisDoorShowThresIn" v:prompt="Show all door interior thresholds" v:val="VT0(1):26" />
+		<v:ud v:nameU="VisDoorShowThresOut" v:prompt="Show all door exterior thresholds" v:val="VT0(1):26" />
+		<v:ud v:nameU="VisDoorFrameToWall" v:prompt="Draw door frame depths same as wall thickness" v:val="VT0(1):26" />
+		<v:ud v:nameU="VisDoorSwingAs" v:prompt="Draw all door swings as: 0 = arc, 1 = line" v:val="VT0(0):26" />
+		<v:ud v:nameU="VisDoorShowFrame" v:prompt="Show all door frames" v:val="VT0(1):26" />
+		<v:ud v:nameU="VisDoorShowStop" v:prompt="Show all door stops" v:val="VT0(1):26" />
+		<v:ud v:nameU="VisWndwShowFrame" v:prompt="Show all window frames" v:val="VT0(1):26" />
+		<v:ud v:nameU="VisWndwShowSash" v:prompt="Show all window sashes" v:val="VT0(1):26" />
+		<v:ud v:nameU="VisWndwFrameToWall" v:prompt="Draw window frame depths same as wall thickness" v:val="VT0(1):26" />
+		<v:ud v:nameU="VisWndwShowHeader" v:prompt="Show all window headers" v:val="VT0(0):26" />
+		<v:ud v:nameU="VisWndwShowSill" v:prompt="Show all window sills" v:val="VT0(0):26" />
+		<v:ud v:nameU="VisWndwShowSillIn" v:prompt="Show all window interior sills" v:val="VT0(1):26" />
+		<v:ud v:nameU="VisWndwShowSillOut" v:prompt="Show all window exterior sills" v:val="VT0(1):26" />
+		<v:ud v:nameU="visSpaceUnits" v:val="VT0(1):26" />
+		<v:ud v:nameU="visSpacePrecision" v:val="VT0(0):26" />
+		<v:ud v:nameU="visSpaceLabel" v:val="VT0(1):26" />
+		<v:ud v:nameU="visSpaceNameLabel" v:val="VT0(1):26" />
+		<v:ud v:nameU="visSpaceUseLabel" v:val="VT0(1):26" />
+		<v:ud v:nameU="visSpaceBoundary" v:val="VT0(0):26" />
+		<v:ud v:nameU="SpaceLabelDisabled" v:prompt="Disabled Label" v:val="VT4()" />
+		<v:ud v:nameU="DisplayField1" v:prompt="Space label 1" v:val="VT4(Prop.Use)" />
+		<v:ud v:nameU="DisplayField2" v:prompt="Space label 2" v:val="VT4(Prop.Name)" />
+		<v:ud v:nameU="DisplayField3" v:prompt="Space label 3" v:val="VT4(User.visFMAreaDisplay)" />
+		<v:ud v:nameU="DisplayField4" v:prompt="Space label 4" v:val="VT4(User.DisplayFieldDisabled)" />
+		<v:ud v:nameU="IFCPropsInvisible" v:val="VT0(0):26" />
+		<v:ud v:nameU="LPrec" v:val="VT0(2):26" />
+		<v:ud v:nameU="LUnits" v:val="VT0(0):26" />
+		<v:ud v:nameU="ShowUnits" v:val="VT0(0):26" />
+		<v:ud v:nameU="APrec" v:val="VT0(1):26" />
+		<v:ud v:nameU="AUnits" v:val="VT0(1):26" />
+		<v:ud v:nameU="LInchPrec" v:val="VT0(4):26" />
+		<v:ud v:nameU="VisWndwClosed" v:prompt="Show all windows closed" v:val="VT0(0):26" />
+		<v:ud v:nameU="VisWndwShowGlass" v:prompt="Show all window glass panels" v:val="VT0(1):26" />
+		<v:ud v:nameU="VisWndwShowTag" v:prompt="Show all window tags" v:val="VT0(0):26" />
+		<v:ud v:nameU="VisDoorShowTag" v:prompt="Show all door tags" v:val="VT0(0):26" />
+	</v:userDefs>
+	<title>页-1</title>
+	<v:pageProperties v:drawingScale="39.3701" v:pageScale="0.787402" v:drawingUnits="6" v:shadowOffsetX="8.50394" v:shadowOffsetY="-8.50394" />
+	<v:layer v:name="建筑围护" v:index="0" />
+	<v:layer v:name="墙壁" v:index="1" />
+	<v:layer v:name="空间" v:index="2" />
+	<v:layer v:name="机器" v:index="3" />
+	<v:layer v:name="设备" v:index="4" />
+	<v:layer v:name="楼梯" v:index="5" />
+	<v:layer v:name="批注" v:index="6" />
+	<v:layer v:name="流道设备" v:index="7" />
+	<v:layer v:name="门" v:index="8" />
+	<v:layer v:name="机动车" v:index="9" />
+	<g id="shape2-1" v:mID="2" v:groupContext="shape" transform="translate(-1357.71,1244.41) rotate(-90)">
+		<a onclick="news03213()">
+			<title>矩形.2</title>
+			<desc>213</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(12):26" />
+			</v:userDefs>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197" />
+			<v:textRect cx="137.008" cy="1595.96" width="175.64" height="274.016" transform="rotate(90)" />
+			<rect x="0" y="1508.14" width="274.016" height="175.64" class="st1" />
+			<text x="1550.96" y="-119.01" transform="rotate(90)" class="st2" v:langID="2052">
+				<v:paragraph v:horizAlign="1" />
+				<v:tabList />213
+			</text>
+		</a>
+	</g>
+	<g id="shape3-4" v:mID="3" v:groupContext="shape" transform="translate(-1357.71,696.378) rotate(-90)">
+		<a onclick="news03211()">
+			<title>矩形.3</title>
+			<desc>211</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(12):26" />
+			</v:userDefs>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197" />
+			<v:textRect cx="137.008" cy="1595.96" width="175.64" height="274.016" transform="rotate(90)" />
+			<rect x="0" y="1508.14" width="274.016" height="175.64" class="st1" />
+			<text x="1550.96" y="-119.01" transform="rotate(90)" class="st2" v:langID="2052">
+				<v:paragraph v:horizAlign="1" />
+				<v:tabList />211
+			</text>
+		</a>
+	</g>
+	<g id="shape4-7" v:mID="4" v:groupContext="shape" transform="translate(-776.745,710.079) rotate(-90)">
+		<a onclick="news03205()">
+			<title>矩形.4</title>
+			<desc>205</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(12):26" />
+			</v:userDefs>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197" />
+			<v:textRect cx="143.858" cy="1595.96" width="175.64" height="287.717" transform="rotate(90)" />
+			<rect x="0" y="1508.14" width="287.717" height="175.64" class="st1" />
+			<text x="1550.96" y="-125.86" transform="rotate(90)" class="st2" v:langID="2052">
+				<v:paragraph v:horizAlign="1" />
+				<v:tabList />205
+			</text>
+		</a>
+	</g>
+	<g id="shape5-10" v:mID="5" v:groupContext="shape" transform="translate(-776.745,1244.41) rotate(-90)">
+		<a onclick="news03203()">
+			<title>矩形.5</title>
+			<desc>203</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(12):26" />
+			</v:userDefs>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197" />
+			<v:textRect cx="130.157" cy="1595.96" width="175.64" height="260.315" transform="rotate(90)" />
+			<rect x="0" y="1508.14" width="260.315" height="175.64" class="st1" />
+			<text x="1550.96" y="-112.16" transform="rotate(90)" class="st2" v:langID="2052">
+				<v:paragraph v:horizAlign="1" />
+				<v:tabList />203
+			</text>
+		</a>
+	</g>
+	<g id="shape6-13" v:mID="6" v:groupContext="shape" transform="translate(-1465.79,422.362) rotate(-90)">
+		<a onclick="news03210()">
+			<title>矩形.6</title>
+			<desc>210</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(12):26" />
+			</v:userDefs>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197" />
+			<v:textRect cx="68.5039" cy="1636.49" width="94.58" height="137.008" transform="rotate(90)" />
+			<rect x="0" y="1589.2" width="137.008" height="94.5752" class="st3" />
+			<text x="1609.49" y="-57.7" transform="rotate(90)" class="st4" v:langID="2052">
+				<v:paragraph v:horizAlign="1" />
+				<v:tabList />210
+			</text>
+		</a>
+	</g>
+	<g id="shape7-16" v:mID="7" v:groupContext="shape" transform="translate(-1465.79,1381.42) rotate(-90)">
+		<a onclick="news03215()">
+			<title>矩形.7</title>
+			<desc>215</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(12):26" />
+			</v:userDefs>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197" />
+			<v:textRect cx="34.252" cy="1636.49" width="94.58" height="68.5039" transform="rotate(90)" />
+			<rect x="0" y="1589.2" width="68.5039" height="94.5752" class="st3" />
+			<text x="1622.99" y="-28.85" transform="rotate(90)" class="st5" v:langID="2052">
+				<v:paragraph v:horizAlign="1" />
+				<v:tabList />215
+			</text>
+		</a>
+	</g>
+	<g id="shape8-19" v:mID="8" v:groupContext="shape" transform="translate(-749.724,1381.42) rotate(-90)">
+		<a onclick="news03202()">
+			<title>矩形.8</title>
+			<desc>202</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(12):26" />
+			</v:userDefs>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197" />
+			<v:textRect cx="68.5039" cy="1636.49" width="94.58" height="137.008" transform="rotate(90)" />
+			<rect x="0" y="1589.2" width="137.008" height="94.5752" class="st3" />
+			<text x="1609.49" y="-57.7" transform="rotate(90)" class="st4" v:langID="2052">
+				<v:paragraph v:horizAlign="1" />
+				<v:tabList />202
+			</text>
+		</a>
+	</g>
+	<g id="shape9-22" v:mID="9" v:groupContext="shape" transform="translate(-749.724,422.362) rotate(-90)">
+		<title>矩形.9</title>
+		<a onclick="news03206()">
+			<desc>206</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(12):26" />
+			</v:userDefs>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197" />
+			<v:textRect cx="68.5039" cy="1636.49" width="94.58" height="137.008" transform="rotate(90)" />
+			<rect x="0" y="1589.2" width="137.008" height="94.5752" class="st3" />
+			<text x="1609.49" y="-57.7" transform="rotate(90)" class="st4" v:langID="2052">
+				<v:paragraph v:horizAlign="1" />
+				<v:tabList />206
+			</text>
+		</a>
+	</g>
+	<g id="group10-25" transform="translate(228.795,-1261.42)" v:mID="10" v:groupContext="group" v:layerMember="0;5">
+		<v:custProps>
+			<v:cp v:nameU="FlightRun" v:lbl="楼梯段长度" v:type="2" v:sortKey="visStair01" v:invis="false" v:langID="2052" v:val="VT0(67.553701679641):1" />
+			<v:cp v:nameU="Width" v:lbl="楼梯段宽度" v:type="2" v:sortKey="visStair02" v:invis="false" v:langID="2052" v:val="VT0(48.392388451444):24" />
+			<v:cp v:nameU="StairSeparation" v:lbl="楼梯段间隔" v:type="2" v:sortKey="visStair03" v:invis="false" v:langID="2052" v:val="VT0(7.8740157480315):24" />
+			<v:cp v:nameU="TreadNumber" v:lbl="每段楼梯的踏板数(最大值为 6)" v:type="2" v:sortKey="visStair04" v:invis="false" v:langID="2052" v:val="VT0(6):26" />
+			<v:cp v:nameU="ShapeClass" v:lbl="形状类" v:type="0" v:invis="true" v:langID="2052" v:val="VT4(建筑物组件)" />
+			<v:cp v:nameU="ShapeType" v:lbl="形状类型" v:type="0" v:invis="true" v:langID="2052" v:val="VT4(楼梯)" />
+			<v:cp v:nameU="SubShapeType" v:lbl="子形状类型" v:type="0" v:invis="true" v:langID="2052" v:val="VT4()" />
+			<v:cp v:nameU="FireRating" v:lbl="防火等级" v:type="0" v:sortKey="visStair12" v:invis="false" v:langID="2052" />
+			<v:cp v:nameU="ExitStair" v:lbl="出口楼梯" v:type="3" v:sortKey="visStair13" v:invis="false" v:langID="2052" />
+			<v:cp v:nameU="HideRail" v:lbl="隐藏扶手" v:type="3" v:sortKey="visStair05" v:invis="false" v:langID="2052" v:val="VT0(0):5" />
+			<v:cp v:nameU="HideBreak" v:lbl="隐藏坡折" v:type="3" v:sortKey="visStair06" v:invis="false" v:langID="2052" v:val="VT0(1):5" />
+			<v:cp v:nameU="HideSegment" v:lbl="隐藏段" v:type="3" v:sortKey="visStair07" v:invis="true" v:langID="2052" v:val="VT0(0):5" />
+			<v:cp v:nameU="StaggerStep" v:lbl="楼梯段交错" v:type="3" v:sortKey="visStair08" v:invis="false" v:langID="2052" v:val="VT0(0):5" />
+		</v:custProps>
+		<v:userDefs>
+			<v:ud v:nameU="MinTreadWidth" v:prompt="Enter the code minimum width for each tread." v:val="VT0(9.8425196850394):24" />
+			<v:ud v:nameU="MinHandrailExtTop" v:prompt="Enter the code minimum length for the top handrail extension." v:val="VT0(0):26" />
+			<v:ud v:nameU="MinHandrailExtBot" v:prompt="Enter the code minimum length for the bottom handrail extension." v:val="VT0(0):26" />
+			<v:ud v:nameU="MinStairWidth" v:prompt="Enter the code minimum width for the staircase." v:val="VT0(11.811023622047):24" />
+			<v:ud v:nameU="SwapDir" v:prompt="Toggles travel of stair segment- to indicate ascent or descent" v:val="VT0(1):5" />
+			<v:ud v:nameU="MinRunLength" v:prompt="Enter the code minimum run length for the staircase." v:val="VT0(19.685039370079):24" />
+			<v:ud v:nameU="MaxTreadNumber" v:prompt="Contains the maximum number of treads for the given stair size." v:val="VT0(6):26" />
+			<v:ud v:nameU="ActualTreadNumber" v:prompt="Contains the actual number of stair treads drawn" v:val="VT0(6):26" />
+			<v:ud v:nameU="ActualTreadWidth" v:prompt="Contains the width for each individual stair tread." v:val="VT0(11.25895027994):1" />
+			<v:ud v:nameU="ShowTread16" v:prompt="Controls the visibility of treads 1-16." v:val="VT0(63):26" />
+			<v:ud v:nameU="ShowTread32" v:prompt="Controls the visibility of treads 17-32." v:val="VT0(0):26" />
+			<v:ud v:nameU="StaggerCtls" v:val="VT0(1):5" />
+			<v:ud v:nameU="DoStaggerCtls" />
+			<v:ud v:nameU="GuardFlightRun" v:val="VT0(0):26" />
+			<v:ud v:nameU="WatchCHRight" v:val="VT0(0):26" />
+			<v:ud v:nameU="WatchCHLeft" v:val="VT0(0):26" />
+			<v:ud v:nameU="GuardFlightWidth" v:val="VT0(0):5" />
+			<v:ud v:nameU="Arrow1Begin" v:val="VT0(0):26" />
+			<v:ud v:nameU="MinFlightSeparation" v:val="VT0(0):24" />
+			<v:ud v:nameU="GuardFltSep" v:val="VT0(0):26" />
+			<v:ud v:nameU="Arrow2Begin" v:val="VT0(0):26" />
+			<v:ud v:nameU="RailRightX" v:val="VT0(91.175748923736):21" />
+			<v:ud v:nameU="RailLeftX" v:val="VT0(-11.811023622047):21" />
+			<v:ud v:nameU="ArrowLoc" v:val="VT0(1):26" />
+			<v:ud v:nameU="3D_type" v:val="VT0(1):26" />
+			<v:ud v:nameU="3D_model_id" v:val="VT4(楼梯, 剪式)" />
+			<v:ud v:nameU="AntiScale" v:val="VT0(50):26" />
+			<v:ud v:nameU="HasText" v:val="VT0(0):5" />
+			<v:ud v:nameU="visVersion" v:val="VT0(12):26" />
+			<v:ud v:nameU="SolSH" v:val="VT4({5D50005D-537C-4738-9C46-130C74335A6D})" />
+			<v:ud v:nameU="ShapeClass" v:prompt="建筑物组件" v:val="VT0(3):26" />
+			<v:ud v:nameU="ShapeType" v:prompt="楼梯" v:val="VT0(39):26" />
+			<v:ud v:nameU="SubShapeType" v:val="VT0(0):26" />
+			<v:ud v:nameU="RailWidth" v:val="VT0(1.9685039370079):24" />
+		</v:userDefs>
+		<title>剪式楼梯</title>
+		<g id="shape11-26" v:mID="11" v:groupContext="shape" v:layerMember="0;5" transform="translate(97.2773,3216.85) rotate(180)">
+			<title>工作表.11</title>
+			<v:userDefs>
+				<v:ud v:nameU="DropOnPageScale" v:val="VT0(1):27" />
+				<v:ud v:nameU="ActualTreadWidth" v:val="VT0(11.25895027994):1" />
+				<v:ud v:nameU="MidpointOffset" v:val="VT0(0.98425196850394):24" />
+				<v:ud v:nameU="ShowTread16" v:val="VT0(63):26" />
+				<v:ud v:nameU="ShowTread32" v:val="VT0(0):26" />
+				<v:ud v:nameU="HideSegment" v:val="VT0(0):5" />
+				<v:ud v:nameU="SwapDir" v:val="VT0(1):5" />
+				<v:ud v:nameU="StaggerStep" v:val="VT0(0):5" />
+				<v:ud v:nameU="ActualTreadNumber" v:val="VT0(6):26" />
+			</v:userDefs>
+			<path d="M0 1614.09 L16.21 1614.09 L16.21 1683.78 L0 1683.78 L0 1614.09 Z M16.21 1614.09 L32.43 1614.09 L32.43 1683.78&#xD;&#xA;							 L16.21 1683.78 L16.21 1614.09 Z M32.43 1614.09 L48.64 1614.09 L48.64 1683.78 L32.43 1683.78 L32.43 1614.09&#xD;&#xA;							 Z M48.64 1614.09 L64.85 1614.09 L64.85 1683.78 L48.64 1683.78 L48.64 1614.09 Z M64.85 1614.09 L81.06&#xD;&#xA;							 1614.09 L81.06 1683.78 L64.85 1683.78 L64.85 1614.09 Z M81.06 1614.09 L97.28 1614.09 L97.28 1683.78&#xD;&#xA;							 L81.06 1683.78 L81.06 1614.09 Z" class="st6" />
+		</g>
+		<g id="shape12-28" v:mID="12" v:groupContext="shape" v:layerMember="0;5">
+			<title>工作表.12</title>
+			<v:userDefs>
+				<v:ud v:nameU="DropOnPageScale" v:val="VT0(1):27" />
+				<v:ud v:nameU="ActualTreadWidth" v:val="VT0(11.25895027994):1" />
+				<v:ud v:nameU="ShowTread16" v:val="VT0(63):26" />
+				<v:ud v:nameU="ShowTread32" v:val="VT0(0):26" />
+				<v:ud v:nameU="SwapDir" v:val="VT0(1):5" />
+				<v:ud v:nameU="StaggerStep" v:val="VT0(0):5" />
+			</v:userDefs>
+			<path d="M0 1614.09 L16.21 1614.09 L16.21 1683.78 L0 1683.78 L0 1614.09 Z M16.21 1614.09 L32.43 1614.09 L32.43 1683.78&#xD;&#xA;							 L16.21 1683.78 L16.21 1614.09 Z M32.43 1614.09 L48.64 1614.09 L48.64 1683.78 L32.43 1683.78 L32.43 1614.09&#xD;&#xA;							 Z M48.64 1614.09 L64.85 1614.09 L64.85 1683.78 L48.64 1683.78 L48.64 1614.09 Z M64.85 1614.09 L81.06&#xD;&#xA;							 1614.09 L81.06 1683.78 L64.85 1683.78 L64.85 1614.09 Z M81.06 1614.09 L97.28 1614.09 L97.28 1683.78&#xD;&#xA;							 L81.06 1683.78 L81.06 1614.09 Z" class="st6" />
+		</g>
+		<g id="shape13-30" v:mID="13" v:groupContext="shape" v:layerMember="0;5">
+			<title>工作表.13</title>
+			<v:userDefs>
+				<v:ud v:nameU="DropOnPageScale" v:val="VT0(1):27" />
+				<v:ud v:nameU="HideRail" v:val="VT0(0):5" />
+				<v:ud v:nameU="HideSegment" v:val="VT0(0):5" />
+				<v:ud v:nameU="FltSep" v:val="VT0(7.8740157480315):24" />
+				<v:ud v:nameU="RailWidth" v:val="VT0(1.9685039370079):24" />
+				<v:ud v:nameU="RailEndOffset" v:val="VT0(5.9055118110236):24" />
+			</v:userDefs>
+			<path d="M-17.01 1683.78 L-14.17 1683.78 A2.8346 2.8346 0 0 1 -11.34 1680.94 L125.62 1680.94 A2.8346 2.8346 0 0 1&#xD;&#xA;							 128.46 1683.78 L131.29 1683.78 A5.6692 5.6692 -180 0 0 125.62 1678.11 L-11.34 1678.11 A5.6692 5.6692&#xD;&#xA;							 -180 0 0 -17.01 1683.78 Z M-34.02 1533.07 L-31.18 1533.07 A2.8346 2.8346 -180 0 0 -28.35 1535.91 L108.62&#xD;&#xA;							 1535.91 A2.8346 2.8346 -180 0 0 111.45 1533.07 L114.29 1533.07 A5.6692 5.6692 0 0 1 108.62 1538.74 L-28.35&#xD;&#xA;							 1538.74 A5.6692 5.6692 0 0 1 -34.02 1533.07 Z M-5.67 1616.93 L102.95 1616.93 A2.8346 2.8346 -180 0 0&#xD;&#xA;							 105.78 1614.09 L105.78 1602.76 A2.8346 2.8346 -180 0 0 102.95 1599.92 L-5.67 1599.92 A2.8346 2.8346&#xD;&#xA;							 -180 0 0 -8.5 1602.76 L-8.5 1614.09 A2.8346 2.8346 -180 0 0 -5.67 1616.93 Z M-5.67 1619.76 L102.95 1619.76&#xD;&#xA;							 A5.6692 5.6692 -180 0 0 108.62 1614.09 L108.62 1602.76 A5.6692 5.6692 -180 0 0 102.95 1597.09 L-5.67&#xD;&#xA;							 1597.09 A5.6692 5.6692 -180 0 0 -11.34 1602.76 L-11.34 1614.09 A5.6692 5.6692 -180 0 0 -5.67 1619.76&#xD;&#xA;							 Z" class="st6" />
+		</g>
+		<g id="shape15-32" v:mID="15" v:groupContext="shape" v:layerMember="0;5" transform="translate(-26.7762,-30.0407)">
+			<title>工作表.15</title>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197" />
+			<v:textRect cx="12.5023" cy="1678.98" width="25.01" height="9.60356" />
+			<text x="4.5" y="1681.38" class="st7" v:langID="2052">
+				<v:paragraph v:horizAlign="1" />
+				<v:tabList />向上
+			</text>
+		</g>
+		<g id="shape16-34" v:mID="16" v:groupContext="shape" v:layerMember="0;5" transform="translate(-0.00486387,-34.8425)">
+			<title>工作表.16</title>
+			<v:userDefs>
+				<v:ud v:nameU="DropOnPageScale" v:val="VT0(1):27" />
+				<v:ud v:nameU="ArrowLinOffset" v:val="VT0(11.811023622047):24" />
+				<v:ud v:nameU="Width" v:val="VT0(67.553701679641):1" />
+			</v:userDefs>
+			<path d="M0 1683.78 L114.29 1683.78 L114.29 1602.76 L66.88 1602.76" class="st8" />
+		</g>
+		<g id="shape17-37" v:mID="17" v:groupContext="shape" v:layerMember="0;5" transform="translate(-0.00486387,-34.8425)">
+			<title>工作表.17</title>
+			<v:userDefs>
+				<v:ud v:nameU="H" v:val="VT0(9.8425196850394):24" />
+			</v:userDefs>
+			<path d="M70.42 1595.67 L66.88 1602.76 L70.42 1609.84" class="st8" />
+			<path d="M1.77 1682.01 L-1.77 1685.55" class="st8" />
+		</g>
+		<g id="shape18-41" v:mID="18" v:groupContext="shape" v:layerMember="0;5" transform="translate(30.2135,-81.0236)">
+			<title>工作表.18</title>
+			<v:userDefs>
+				<v:ud v:nameU="DropOnPageScale" v:val="VT0(1):27" />
+				<v:ud v:nameU="StairLineWeight" v:val="VT0(2.21):29" />
+			</v:userDefs>
+		</g>
+		<g id="shape19-43" v:mID="19" v:groupContext="shape" v:layerMember="0;5" transform="translate(30.2135,-81.0236)">
+			<title>工作表.19</title>
+			<v:userDefs>
+				<v:ud v:nameU="EdgeOffset" v:val="VT0(2.5590551181102):24" />
+				<v:ud v:nameU="DropOnPageScale" v:val="VT0(1):27" />
+			</v:userDefs>
+		</g>
+	</g>
+	<g id="group20-45" transform="translate(715.182,-288.661)" v:mID="20" v:groupContext="group" v:layerMember="0;5">
+		<v:custProps>
+			<v:cp v:nameU="FlightRun" v:lbl="楼梯段长度" v:type="2" v:sortKey="visStair01" v:invis="false" v:langID="2052" v:val="VT0(67.553701679641):1" />
+			<v:cp v:nameU="Width" v:lbl="楼梯段宽度" v:type="2" v:sortKey="visStair02" v:invis="false" v:langID="2052" v:val="VT0(48.392388451444):24" />
+			<v:cp v:nameU="StairSeparation" v:lbl="楼梯段间隔" v:type="2" v:sortKey="visStair03" v:invis="false" v:langID="2052" v:val="VT0(7.8740157480315):24" />
+			<v:cp v:nameU="TreadNumber" v:lbl="每段楼梯的踏板数(最大值为 6)" v:type="2" v:sortKey="visStair04" v:invis="false" v:langID="2052" v:val="VT0(6):26" />
+			<v:cp v:nameU="ShapeClass" v:lbl="形状类" v:type="0" v:invis="true" v:langID="2052" v:val="VT4(建筑物组件)" />
+			<v:cp v:nameU="ShapeType" v:lbl="形状类型" v:type="0" v:invis="true" v:langID="2052" v:val="VT4(楼梯)" />
+			<v:cp v:nameU="SubShapeType" v:lbl="子形状类型" v:type="0" v:invis="true" v:langID="2052" v:val="VT4()" />
+			<v:cp v:nameU="FireRating" v:lbl="防火等级" v:type="0" v:sortKey="visStair12" v:invis="false" v:langID="2052" />
+			<v:cp v:nameU="ExitStair" v:lbl="出口楼梯" v:type="3" v:sortKey="visStair13" v:invis="false" v:langID="2052" />
+			<v:cp v:nameU="HideRail" v:lbl="隐藏扶手" v:type="3" v:sortKey="visStair05" v:invis="false" v:langID="2052" v:val="VT0(0):5" />
+			<v:cp v:nameU="HideBreak" v:lbl="隐藏坡折" v:type="3" v:sortKey="visStair06" v:invis="false" v:langID="2052" v:val="VT0(1):5" />
+			<v:cp v:nameU="HideSegment" v:lbl="隐藏段" v:type="3" v:sortKey="visStair07" v:invis="true" v:langID="2052" v:val="VT0(0):5" />
+			<v:cp v:nameU="StaggerStep" v:lbl="楼梯段交错" v:type="3" v:sortKey="visStair08" v:invis="false" v:langID="2052" v:val="VT0(0):5" />
+		</v:custProps>
+		<v:userDefs>
+			<v:ud v:nameU="MinTreadWidth" v:prompt="Enter the code minimum width for each tread." v:val="VT0(9.8425196850394):24" />
+			<v:ud v:nameU="MinHandrailExtTop" v:prompt="Enter the code minimum length for the top handrail extension." v:val="VT0(0):26" />
+			<v:ud v:nameU="MinHandrailExtBot" v:prompt="Enter the code minimum length for the bottom handrail extension." v:val="VT0(0):26" />
+			<v:ud v:nameU="MinStairWidth" v:prompt="Enter the code minimum width for the staircase." v:val="VT0(11.811023622047):24" />
+			<v:ud v:nameU="SwapDir" v:prompt="Toggles travel of stair segment- to indicate ascent or descent" v:val="VT0(1):5" />
+			<v:ud v:nameU="MinRunLength" v:prompt="Enter the code minimum run length for the staircase." v:val="VT0(19.685039370079):24" />
+			<v:ud v:nameU="MaxTreadNumber" v:prompt="Contains the maximum number of treads for the given stair size." v:val="VT0(6):26" />
+			<v:ud v:nameU="ActualTreadNumber" v:prompt="Contains the actual number of stair treads drawn" v:val="VT0(6):26" />
+			<v:ud v:nameU="ActualTreadWidth" v:prompt="Contains the width for each individual stair tread." v:val="VT0(11.25895027994):1" />
+			<v:ud v:nameU="ShowTread16" v:prompt="Controls the visibility of treads 1-16." v:val="VT0(63):26" />
+			<v:ud v:nameU="ShowTread32" v:prompt="Controls the visibility of treads 17-32." v:val="VT0(0):26" />
+			<v:ud v:nameU="StaggerCtls" v:val="VT0(1):5" />
+			<v:ud v:nameU="DoStaggerCtls" />
+			<v:ud v:nameU="GuardFlightRun" v:val="VT0(0):26" />
+			<v:ud v:nameU="WatchCHRight" v:val="VT0(0):26" />
+			<v:ud v:nameU="WatchCHLeft" v:val="VT0(0):26" />
+			<v:ud v:nameU="GuardFlightWidth" v:val="VT0(0):5" />
+			<v:ud v:nameU="Arrow1Begin" v:val="VT0(0):26" />
+			<v:ud v:nameU="MinFlightSeparation" v:val="VT0(0):24" />
+			<v:ud v:nameU="GuardFltSep" v:val="VT0(0):26" />
+			<v:ud v:nameU="Arrow2Begin" v:val="VT0(0):26" />
+			<v:ud v:nameU="RailRightX" v:val="VT0(91.175748923736):21" />
+			<v:ud v:nameU="RailLeftX" v:val="VT0(-11.811023622047):21" />
+			<v:ud v:nameU="ArrowLoc" v:val="VT0(1):26" />
+			<v:ud v:nameU="3D_type" v:val="VT0(1):26" />
+			<v:ud v:nameU="3D_model_id" v:val="VT4(楼梯, 剪式)" />
+			<v:ud v:nameU="AntiScale" v:val="VT0(50):26" />
+			<v:ud v:nameU="HasText" v:val="VT0(0):5" />
+			<v:ud v:nameU="visVersion" v:val="VT0(12):26" />
+			<v:ud v:nameU="SolSH" v:val="VT4({5D50005D-537C-4738-9C46-130C74335A6D})" />
+			<v:ud v:nameU="ShapeClass" v:prompt="建筑物组件" v:val="VT0(3):26" />
+			<v:ud v:nameU="ShapeType" v:prompt="楼梯" v:val="VT0(39):26" />
+			<v:ud v:nameU="SubShapeType" v:val="VT0(0):26" />
+			<v:ud v:nameU="RailWidth" v:val="VT0(1.9685039370079):24" />
+		</v:userDefs>
+		<title>剪式楼梯.20</title>
+		<g id="shape21-46" v:mID="21" v:groupContext="shape" v:layerMember="0;5" transform="translate(97.2773,3216.85) rotate(180)">
+			<title>工作表.21</title>
+			<v:userDefs>
+				<v:ud v:nameU="DropOnPageScale" v:val="VT0(1):27" />
+				<v:ud v:nameU="ActualTreadWidth" v:val="VT0(11.25895027994):1" />
+				<v:ud v:nameU="MidpointOffset" v:val="VT0(0.98425196850394):24" />
+				<v:ud v:nameU="ShowTread16" v:val="VT0(63):26" />
+				<v:ud v:nameU="ShowTread32" v:val="VT0(0):26" />
+				<v:ud v:nameU="HideSegment" v:val="VT0(0):5" />
+				<v:ud v:nameU="SwapDir" v:val="VT0(1):5" />
+				<v:ud v:nameU="StaggerStep" v:val="VT0(0):5" />
+				<v:ud v:nameU="ActualTreadNumber" v:val="VT0(6):26" />
+			</v:userDefs>
+			<path d="M0 1614.09 L16.21 1614.09 L16.21 1683.78 L0 1683.78 L0 1614.09 Z M16.21 1614.09 L32.43 1614.09 L32.43 1683.78&#xD;&#xA;							 L16.21 1683.78 L16.21 1614.09 Z M32.43 1614.09 L48.64 1614.09 L48.64 1683.78 L32.43 1683.78 L32.43 1614.09&#xD;&#xA;							 Z M48.64 1614.09 L64.85 1614.09 L64.85 1683.78 L48.64 1683.78 L48.64 1614.09 Z M64.85 1614.09 L81.06&#xD;&#xA;							 1614.09 L81.06 1683.78 L64.85 1683.78 L64.85 1614.09 Z M81.06 1614.09 L97.28 1614.09 L97.28 1683.78&#xD;&#xA;							 L81.06 1683.78 L81.06 1614.09 Z" class="st6" />
+		</g>
+		<g id="shape22-48" v:mID="22" v:groupContext="shape" v:layerMember="0;5">
+			<title>工作表.22</title>
+			<v:userDefs>
+				<v:ud v:nameU="DropOnPageScale" v:val="VT0(1):27" />
+				<v:ud v:nameU="ActualTreadWidth" v:val="VT0(11.25895027994):1" />
+				<v:ud v:nameU="ShowTread16" v:val="VT0(63):26" />
+				<v:ud v:nameU="ShowTread32" v:val="VT0(0):26" />
+				<v:ud v:nameU="SwapDir" v:val="VT0(1):5" />
+				<v:ud v:nameU="StaggerStep" v:val="VT0(0):5" />
+			</v:userDefs>
+			<path d="M0 1614.09 L16.21 1614.09 L16.21 1683.78 L0 1683.78 L0 1614.09 Z M16.21 1614.09 L32.43 1614.09 L32.43 1683.78&#xD;&#xA;							 L16.21 1683.78 L16.21 1614.09 Z M32.43 1614.09 L48.64 1614.09 L48.64 1683.78 L32.43 1683.78 L32.43 1614.09&#xD;&#xA;							 Z M48.64 1614.09 L64.85 1614.09 L64.85 1683.78 L48.64 1683.78 L48.64 1614.09 Z M64.85 1614.09 L81.06&#xD;&#xA;							 1614.09 L81.06 1683.78 L64.85 1683.78 L64.85 1614.09 Z M81.06 1614.09 L97.28 1614.09 L97.28 1683.78&#xD;&#xA;							 L81.06 1683.78 L81.06 1614.09 Z" class="st6" />
+		</g>
+		<g id="shape23-50" v:mID="23" v:groupContext="shape" v:layerMember="0;5">
+			<title>工作表.23</title>
+			<v:userDefs>
+				<v:ud v:nameU="DropOnPageScale" v:val="VT0(1):27" />
+				<v:ud v:nameU="HideRail" v:val="VT0(0):5" />
+				<v:ud v:nameU="HideSegment" v:val="VT0(0):5" />
+				<v:ud v:nameU="FltSep" v:val="VT0(7.8740157480315):24" />
+				<v:ud v:nameU="RailWidth" v:val="VT0(1.9685039370079):24" />
+				<v:ud v:nameU="RailEndOffset" v:val="VT0(5.9055118110236):24" />
+			</v:userDefs>
+			<path d="M-17.01 1683.78 L-14.17 1683.78 A2.8346 2.8346 0 0 1 -11.34 1680.94 L125.62 1680.94 A2.8346 2.8346 0 0 1&#xD;&#xA;							 128.46 1683.78 L131.29 1683.78 A5.6692 5.6692 -180 0 0 125.62 1678.11 L-11.34 1678.11 A5.6692 5.6692&#xD;&#xA;							 -180 0 0 -17.01 1683.78 Z M-34.02 1533.07 L-31.18 1533.07 A2.8346 2.8346 -180 0 0 -28.35 1535.91 L108.62&#xD;&#xA;							 1535.91 A2.8346 2.8346 -180 0 0 111.45 1533.07 L114.29 1533.07 A5.6692 5.6692 0 0 1 108.62 1538.74 L-28.35&#xD;&#xA;							 1538.74 A5.6692 5.6692 0 0 1 -34.02 1533.07 Z M-5.67 1616.93 L102.95 1616.93 A2.8346 2.8346 -180 0 0&#xD;&#xA;							 105.78 1614.09 L105.78 1602.76 A2.8346 2.8346 -180 0 0 102.95 1599.92 L-5.67 1599.92 A2.8346 2.8346&#xD;&#xA;							 -180 0 0 -8.5 1602.76 L-8.5 1614.09 A2.8346 2.8346 -180 0 0 -5.67 1616.93 Z M-5.67 1619.76 L102.95 1619.76&#xD;&#xA;							 A5.6692 5.6692 -180 0 0 108.62 1614.09 L108.62 1602.76 A5.6692 5.6692 -180 0 0 102.95 1597.09 L-5.67&#xD;&#xA;							 1597.09 A5.6692 5.6692 -180 0 0 -11.34 1602.76 L-11.34 1614.09 A5.6692 5.6692 -180 0 0 -5.67 1619.76&#xD;&#xA;							 Z" class="st6" />
+		</g>
+		<g id="shape25-52" v:mID="25" v:groupContext="shape" v:layerMember="0;5" transform="translate(-26.7762,-30.0407)">
+			<title>工作表.25</title>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197" />
+			<v:textRect cx="12.5023" cy="1678.98" width="25.01" height="9.60356" />
+			<text x="4.5" y="1681.38" class="st7" v:langID="2052">
+				<v:paragraph v:horizAlign="1" />
+				<v:tabList />向上
+			</text>
+		</g>
+		<g id="shape26-54" v:mID="26" v:groupContext="shape" v:layerMember="0;5" transform="translate(-0.00486387,-34.8425)">
+			<title>工作表.26</title>
+			<v:userDefs>
+				<v:ud v:nameU="DropOnPageScale" v:val="VT0(1):27" />
+				<v:ud v:nameU="ArrowLinOffset" v:val="VT0(11.811023622047):24" />
+				<v:ud v:nameU="Width" v:val="VT0(67.553701679641):1" />
+			</v:userDefs>
+			<path d="M0 1683.78 L114.29 1683.78 L114.29 1602.76 L66.88 1602.76" class="st8" />
+		</g>
+		<g id="shape27-57" v:mID="27" v:groupContext="shape" v:layerMember="0;5" transform="translate(-0.00486387,-34.8425)">
+			<title>工作表.27</title>
+			<v:userDefs>
+				<v:ud v:nameU="H" v:val="VT0(9.8425196850394):24" />
+			</v:userDefs>
+			<path d="M70.42 1595.67 L66.88 1602.76 L70.42 1609.84" class="st8" />
+			<path d="M1.77 1682.01 L-1.77 1685.55" class="st8" />
+		</g>
+		<g id="shape28-61" v:mID="28" v:groupContext="shape" v:layerMember="0;5" transform="translate(30.2135,-81.0236)">
+			<title>工作表.28</title>
+			<v:userDefs>
+				<v:ud v:nameU="DropOnPageScale" v:val="VT0(1):27" />
+				<v:ud v:nameU="StairLineWeight" v:val="VT0(2.21):29" />
+			</v:userDefs>
+		</g>
+		<g id="shape29-63" v:mID="29" v:groupContext="shape" v:layerMember="0;5" transform="translate(30.2135,-81.0236)">
+			<title>工作表.29</title>
+			<v:userDefs>
+				<v:ud v:nameU="EdgeOffset" v:val="VT0(2.5590551181102):24" />
+				<v:ud v:nameU="DropOnPageScale" v:val="VT0(1):27" />
+			</v:userDefs>
+		</g>
+	</g>
+	<g id="group30-65" transform="translate(228.795,-295.512)" v:mID="30" v:groupContext="group" v:layerMember="0;5">
+		<v:custProps>
+			<v:cp v:nameU="FlightRun" v:lbl="楼梯段长度" v:type="2" v:sortKey="visStair01" v:invis="false" v:langID="2052" v:val="VT0(67.553701679641):1" />
+			<v:cp v:nameU="Width" v:lbl="楼梯段宽度" v:type="2" v:sortKey="visStair02" v:invis="false" v:langID="2052" v:val="VT0(48.392388451444):24" />
+			<v:cp v:nameU="StairSeparation" v:lbl="楼梯段间隔" v:type="2" v:sortKey="visStair03" v:invis="false" v:langID="2052" v:val="VT0(7.8740157480315):24" />
+			<v:cp v:nameU="TreadNumber" v:lbl="每段楼梯的踏板数(最大值为 6)" v:type="2" v:sortKey="visStair04" v:invis="false" v:langID="2052" v:val="VT0(6):26" />
+			<v:cp v:nameU="ShapeClass" v:lbl="形状类" v:type="0" v:invis="true" v:langID="2052" v:val="VT4(建筑物组件)" />
+			<v:cp v:nameU="ShapeType" v:lbl="形状类型" v:type="0" v:invis="true" v:langID="2052" v:val="VT4(楼梯)" />
+			<v:cp v:nameU="SubShapeType" v:lbl="子形状类型" v:type="0" v:invis="true" v:langID="2052" v:val="VT4()" />
+			<v:cp v:nameU="FireRating" v:lbl="防火等级" v:type="0" v:sortKey="visStair12" v:invis="false" v:langID="2052" />
+			<v:cp v:nameU="ExitStair" v:lbl="出口楼梯" v:type="3" v:sortKey="visStair13" v:invis="false" v:langID="2052" />
+			<v:cp v:nameU="HideRail" v:lbl="隐藏扶手" v:type="3" v:sortKey="visStair05" v:invis="false" v:langID="2052" v:val="VT0(0):5" />
+			<v:cp v:nameU="HideBreak" v:lbl="隐藏坡折" v:type="3" v:sortKey="visStair06" v:invis="false" v:langID="2052" v:val="VT0(1):5" />
+			<v:cp v:nameU="HideSegment" v:lbl="隐藏段" v:type="3" v:sortKey="visStair07" v:invis="true" v:langID="2052" v:val="VT0(0):5" />
+			<v:cp v:nameU="StaggerStep" v:lbl="楼梯段交错" v:type="3" v:sortKey="visStair08" v:invis="false" v:langID="2052" v:val="VT0(0):5" />
+		</v:custProps>
+		<v:userDefs>
+			<v:ud v:nameU="MinTreadWidth" v:prompt="Enter the code minimum width for each tread." v:val="VT0(9.8425196850394):24" />
+			<v:ud v:nameU="MinHandrailExtTop" v:prompt="Enter the code minimum length for the top handrail extension." v:val="VT0(0):26" />
+			<v:ud v:nameU="MinHandrailExtBot" v:prompt="Enter the code minimum length for the bottom handrail extension." v:val="VT0(0):26" />
+			<v:ud v:nameU="MinStairWidth" v:prompt="Enter the code minimum width for the staircase." v:val="VT0(11.811023622047):24" />
+			<v:ud v:nameU="SwapDir" v:prompt="Toggles travel of stair segment- to indicate ascent or descent" v:val="VT0(1):5" />
+			<v:ud v:nameU="MinRunLength" v:prompt="Enter the code minimum run length for the staircase." v:val="VT0(19.685039370079):24" />
+			<v:ud v:nameU="MaxTreadNumber" v:prompt="Contains the maximum number of treads for the given stair size." v:val="VT0(6):26" />
+			<v:ud v:nameU="ActualTreadNumber" v:prompt="Contains the actual number of stair treads drawn" v:val="VT0(6):26" />
+			<v:ud v:nameU="ActualTreadWidth" v:prompt="Contains the width for each individual stair tread." v:val="VT0(11.25895027994):1" />
+			<v:ud v:nameU="ShowTread16" v:prompt="Controls the visibility of treads 1-16." v:val="VT0(63):26" />
+			<v:ud v:nameU="ShowTread32" v:prompt="Controls the visibility of treads 17-32." v:val="VT0(0):26" />
+			<v:ud v:nameU="StaggerCtls" v:val="VT0(1):5" />
+			<v:ud v:nameU="DoStaggerCtls" />
+			<v:ud v:nameU="GuardFlightRun" v:val="VT0(0):26" />
+			<v:ud v:nameU="WatchCHRight" v:val="VT0(0):26" />
+			<v:ud v:nameU="WatchCHLeft" v:val="VT0(0):26" />
+			<v:ud v:nameU="GuardFlightWidth" v:val="VT0(0):5" />
+			<v:ud v:nameU="Arrow1Begin" v:val="VT0(0):26" />
+			<v:ud v:nameU="MinFlightSeparation" v:val="VT0(0):24" />
+			<v:ud v:nameU="GuardFltSep" v:val="VT0(0):26" />
+			<v:ud v:nameU="Arrow2Begin" v:val="VT0(0):26" />
+			<v:ud v:nameU="RailRightX" v:val="VT0(91.175748923736):21" />
+			<v:ud v:nameU="RailLeftX" v:val="VT0(-11.811023622047):21" />
+			<v:ud v:nameU="ArrowLoc" v:val="VT0(1):26" />
+			<v:ud v:nameU="3D_type" v:val="VT0(1):26" />
+			<v:ud v:nameU="3D_model_id" v:val="VT4(楼梯, 剪式)" />
+			<v:ud v:nameU="AntiScale" v:val="VT0(50):26" />
+			<v:ud v:nameU="HasText" v:val="VT0(0):5" />
+			<v:ud v:nameU="visVersion" v:val="VT0(12):26" />
+			<v:ud v:nameU="SolSH" v:val="VT4({5D50005D-537C-4738-9C46-130C74335A6D})" />
+			<v:ud v:nameU="ShapeClass" v:prompt="建筑物组件" v:val="VT0(3):26" />
+			<v:ud v:nameU="ShapeType" v:prompt="楼梯" v:val="VT0(39):26" />
+			<v:ud v:nameU="SubShapeType" v:val="VT0(0):26" />
+			<v:ud v:nameU="RailWidth" v:val="VT0(1.9685039370079):24" />
+		</v:userDefs>
+		<title>剪式楼梯.30</title>
+		<g id="shape31-66" v:mID="31" v:groupContext="shape" v:layerMember="0;5" transform="translate(97.2773,3216.85) rotate(180)">
+			<title>工作表.31</title>
+			<v:userDefs>
+				<v:ud v:nameU="DropOnPageScale" v:val="VT0(1):27" />
+				<v:ud v:nameU="ActualTreadWidth" v:val="VT0(11.25895027994):1" />
+				<v:ud v:nameU="MidpointOffset" v:val="VT0(0.98425196850394):24" />
+				<v:ud v:nameU="ShowTread16" v:val="VT0(63):26" />
+				<v:ud v:nameU="ShowTread32" v:val="VT0(0):26" />
+				<v:ud v:nameU="HideSegment" v:val="VT0(0):5" />
+				<v:ud v:nameU="SwapDir" v:val="VT0(1):5" />
+				<v:ud v:nameU="StaggerStep" v:val="VT0(0):5" />
+				<v:ud v:nameU="ActualTreadNumber" v:val="VT0(6):26" />
+			</v:userDefs>
+			<path d="M0 1614.09 L16.21 1614.09 L16.21 1683.78 L0 1683.78 L0 1614.09 Z M16.21 1614.09 L32.43 1614.09 L32.43 1683.78&#xD;&#xA;							 L16.21 1683.78 L16.21 1614.09 Z M32.43 1614.09 L48.64 1614.09 L48.64 1683.78 L32.43 1683.78 L32.43 1614.09&#xD;&#xA;							 Z M48.64 1614.09 L64.85 1614.09 L64.85 1683.78 L48.64 1683.78 L48.64 1614.09 Z M64.85 1614.09 L81.06&#xD;&#xA;							 1614.09 L81.06 1683.78 L64.85 1683.78 L64.85 1614.09 Z M81.06 1614.09 L97.28 1614.09 L97.28 1683.78&#xD;&#xA;							 L81.06 1683.78 L81.06 1614.09 Z" class="st6" />
+		</g>
+		<g id="shape32-68" v:mID="32" v:groupContext="shape" v:layerMember="0;5">
+			<title>工作表.32</title>
+			<v:userDefs>
+				<v:ud v:nameU="DropOnPageScale" v:val="VT0(1):27" />
+				<v:ud v:nameU="ActualTreadWidth" v:val="VT0(11.25895027994):1" />
+				<v:ud v:nameU="ShowTread16" v:val="VT0(63):26" />
+				<v:ud v:nameU="ShowTread32" v:val="VT0(0):26" />
+				<v:ud v:nameU="SwapDir" v:val="VT0(1):5" />
+				<v:ud v:nameU="StaggerStep" v:val="VT0(0):5" />
+			</v:userDefs>
+			<path d="M0 1614.09 L16.21 1614.09 L16.21 1683.78 L0 1683.78 L0 1614.09 Z M16.21 1614.09 L32.43 1614.09 L32.43 1683.78&#xD;&#xA;							 L16.21 1683.78 L16.21 1614.09 Z M32.43 1614.09 L48.64 1614.09 L48.64 1683.78 L32.43 1683.78 L32.43 1614.09&#xD;&#xA;							 Z M48.64 1614.09 L64.85 1614.09 L64.85 1683.78 L48.64 1683.78 L48.64 1614.09 Z M64.85 1614.09 L81.06&#xD;&#xA;							 1614.09 L81.06 1683.78 L64.85 1683.78 L64.85 1614.09 Z M81.06 1614.09 L97.28 1614.09 L97.28 1683.78&#xD;&#xA;							 L81.06 1683.78 L81.06 1614.09 Z" class="st6" />
+		</g>
+		<g id="shape33-70" v:mID="33" v:groupContext="shape" v:layerMember="0;5">
+			<title>工作表.33</title>
+			<v:userDefs>
+				<v:ud v:nameU="DropOnPageScale" v:val="VT0(1):27" />
+				<v:ud v:nameU="HideRail" v:val="VT0(0):5" />
+				<v:ud v:nameU="HideSegment" v:val="VT0(0):5" />
+				<v:ud v:nameU="FltSep" v:val="VT0(7.8740157480315):24" />
+				<v:ud v:nameU="RailWidth" v:val="VT0(1.9685039370079):24" />
+				<v:ud v:nameU="RailEndOffset" v:val="VT0(5.9055118110236):24" />
+			</v:userDefs>
+			<path d="M-17.01 1683.78 L-14.17 1683.78 A2.8346 2.8346 0 0 1 -11.34 1680.94 L125.62 1680.94 A2.8346 2.8346 0 0 1&#xD;&#xA;							 128.46 1683.78 L131.29 1683.78 A5.6692 5.6692 -180 0 0 125.62 1678.11 L-11.34 1678.11 A5.6692 5.6692&#xD;&#xA;							 -180 0 0 -17.01 1683.78 Z M-34.02 1533.07 L-31.18 1533.07 A2.8346 2.8346 -180 0 0 -28.35 1535.91 L108.62&#xD;&#xA;							 1535.91 A2.8346 2.8346 -180 0 0 111.45 1533.07 L114.29 1533.07 A5.6692 5.6692 0 0 1 108.62 1538.74 L-28.35&#xD;&#xA;							 1538.74 A5.6692 5.6692 0 0 1 -34.02 1533.07 Z M-5.67 1616.93 L102.95 1616.93 A2.8346 2.8346 -180 0 0&#xD;&#xA;							 105.78 1614.09 L105.78 1602.76 A2.8346 2.8346 -180 0 0 102.95 1599.92 L-5.67 1599.92 A2.8346 2.8346&#xD;&#xA;							 -180 0 0 -8.5 1602.76 L-8.5 1614.09 A2.8346 2.8346 -180 0 0 -5.67 1616.93 Z M-5.67 1619.76 L102.95 1619.76&#xD;&#xA;							 A5.6692 5.6692 -180 0 0 108.62 1614.09 L108.62 1602.76 A5.6692 5.6692 -180 0 0 102.95 1597.09 L-5.67&#xD;&#xA;							 1597.09 A5.6692 5.6692 -180 0 0 -11.34 1602.76 L-11.34 1614.09 A5.6692 5.6692 -180 0 0 -5.67 1619.76&#xD;&#xA;							 Z" class="st6" />
+		</g>
+		<g id="shape35-72" v:mID="35" v:groupContext="shape" v:layerMember="0;5" transform="translate(-26.7762,-30.0407)">
+			<title>工作表.35</title>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197" />
+			<v:textRect cx="12.5023" cy="1678.98" width="25.01" height="9.60356" />
+			<text x="4.5" y="1681.38" class="st7" v:langID="2052">
+				<v:paragraph v:horizAlign="1" />
+				<v:tabList />向上
+			</text>
+		</g>
+		<g id="shape36-74" v:mID="36" v:groupContext="shape" v:layerMember="0;5" transform="translate(-0.00486387,-34.8425)">
+			<title>工作表.36</title>
+			<v:userDefs>
+				<v:ud v:nameU="DropOnPageScale" v:val="VT0(1):27" />
+				<v:ud v:nameU="ArrowLinOffset" v:val="VT0(11.811023622047):24" />
+				<v:ud v:nameU="Width" v:val="VT0(67.553701679641):1" />
+			</v:userDefs>
+			<path d="M0 1683.78 L114.29 1683.78 L114.29 1602.76 L66.88 1602.76" class="st8" />
+		</g>
+		<g id="shape37-77" v:mID="37" v:groupContext="shape" v:layerMember="0;5" transform="translate(-0.00486387,-34.8425)">
+			<title>工作表.37</title>
+			<v:userDefs>
+				<v:ud v:nameU="H" v:val="VT0(9.8425196850394):24" />
+			</v:userDefs>
+			<path d="M70.42 1595.67 L66.88 1602.76 L70.42 1609.84" class="st8" />
+			<path d="M1.77 1682.01 L-1.77 1685.55" class="st8" />
+		</g>
+		<g id="shape38-81" v:mID="38" v:groupContext="shape" v:layerMember="0;5" transform="translate(30.2135,-81.0236)">
+			<title>工作表.38</title>
+			<v:userDefs>
+				<v:ud v:nameU="DropOnPageScale" v:val="VT0(1):27" />
+				<v:ud v:nameU="StairLineWeight" v:val="VT0(2.21):29" />
+			</v:userDefs>
+		</g>
+		<g id="shape39-83" v:mID="39" v:groupContext="shape" v:layerMember="0;5" transform="translate(30.2135,-81.0236)">
+			<title>工作表.39</title>
+			<v:userDefs>
+				<v:ud v:nameU="EdgeOffset" v:val="VT0(2.5590551181102):24" />
+				<v:ud v:nameU="DropOnPageScale" v:val="VT0(1):27" />
+			</v:userDefs>
+		</g>
+	</g>
+	<g id="group40-85" transform="translate(717.884,-1261.42)" v:mID="40" v:groupContext="group" v:layerMember="0;5">
+		<v:custProps>
+			<v:cp v:nameU="FlightRun" v:lbl="楼梯段长度" v:type="2" v:sortKey="visStair01" v:invis="false" v:langID="2052" v:val="VT0(67.553701679641):1" />
+			<v:cp v:nameU="Width" v:lbl="楼梯段宽度" v:type="2" v:sortKey="visStair02" v:invis="false" v:langID="2052" v:val="VT0(48.392388451444):24" />
+			<v:cp v:nameU="StairSeparation" v:lbl="楼梯段间隔" v:type="2" v:sortKey="visStair03" v:invis="false" v:langID="2052" v:val="VT0(7.8740157480315):24" />
+			<v:cp v:nameU="TreadNumber" v:lbl="每段楼梯的踏板数(最大值为 6)" v:type="2" v:sortKey="visStair04" v:invis="false" v:langID="2052" v:val="VT0(6):26" />
+			<v:cp v:nameU="ShapeClass" v:lbl="形状类" v:type="0" v:invis="true" v:langID="2052" v:val="VT4(建筑物组件)" />
+			<v:cp v:nameU="ShapeType" v:lbl="形状类型" v:type="0" v:invis="true" v:langID="2052" v:val="VT4(楼梯)" />
+			<v:cp v:nameU="SubShapeType" v:lbl="子形状类型" v:type="0" v:invis="true" v:langID="2052" v:val="VT4()" />
+			<v:cp v:nameU="FireRating" v:lbl="防火等级" v:type="0" v:sortKey="visStair12" v:invis="false" v:langID="2052" />
+			<v:cp v:nameU="ExitStair" v:lbl="出口楼梯" v:type="3" v:sortKey="visStair13" v:invis="false" v:langID="2052" />
+			<v:cp v:nameU="HideRail" v:lbl="隐藏扶手" v:type="3" v:sortKey="visStair05" v:invis="false" v:langID="2052" v:val="VT0(0):5" />
+			<v:cp v:nameU="HideBreak" v:lbl="隐藏坡折" v:type="3" v:sortKey="visStair06" v:invis="false" v:langID="2052" v:val="VT0(1):5" />
+			<v:cp v:nameU="HideSegment" v:lbl="隐藏段" v:type="3" v:sortKey="visStair07" v:invis="true" v:langID="2052" v:val="VT0(0):5" />
+			<v:cp v:nameU="StaggerStep" v:lbl="楼梯段交错" v:type="3" v:sortKey="visStair08" v:invis="false" v:langID="2052" v:val="VT0(0):5" />
+		</v:custProps>
+		<v:userDefs>
+			<v:ud v:nameU="MinTreadWidth" v:prompt="Enter the code minimum width for each tread." v:val="VT0(9.8425196850394):24" />
+			<v:ud v:nameU="MinHandrailExtTop" v:prompt="Enter the code minimum length for the top handrail extension." v:val="VT0(0):26" />
+			<v:ud v:nameU="MinHandrailExtBot" v:prompt="Enter the code minimum length for the bottom handrail extension." v:val="VT0(0):26" />
+			<v:ud v:nameU="MinStairWidth" v:prompt="Enter the code minimum width for the staircase." v:val="VT0(11.811023622047):24" />
+			<v:ud v:nameU="SwapDir" v:prompt="Toggles travel of stair segment- to indicate ascent or descent" v:val="VT0(1):5" />
+			<v:ud v:nameU="MinRunLength" v:prompt="Enter the code minimum run length for the staircase." v:val="VT0(19.685039370079):24" />
+			<v:ud v:nameU="MaxTreadNumber" v:prompt="Contains the maximum number of treads for the given stair size." v:val="VT0(6):26" />
+			<v:ud v:nameU="ActualTreadNumber" v:prompt="Contains the actual number of stair treads drawn" v:val="VT0(6):26" />
+			<v:ud v:nameU="ActualTreadWidth" v:prompt="Contains the width for each individual stair tread." v:val="VT0(11.25895027994):1" />
+			<v:ud v:nameU="ShowTread16" v:prompt="Controls the visibility of treads 1-16." v:val="VT0(63):26" />
+			<v:ud v:nameU="ShowTread32" v:prompt="Controls the visibility of treads 17-32." v:val="VT0(0):26" />
+			<v:ud v:nameU="StaggerCtls" v:val="VT0(1):5" />
+			<v:ud v:nameU="DoStaggerCtls" />
+			<v:ud v:nameU="GuardFlightRun" v:val="VT0(0):26" />
+			<v:ud v:nameU="WatchCHRight" v:val="VT0(0):26" />
+			<v:ud v:nameU="WatchCHLeft" v:val="VT0(0):26" />
+			<v:ud v:nameU="GuardFlightWidth" v:val="VT0(0):5" />
+			<v:ud v:nameU="Arrow1Begin" v:val="VT0(0):26" />
+			<v:ud v:nameU="MinFlightSeparation" v:val="VT0(0):24" />
+			<v:ud v:nameU="GuardFltSep" v:val="VT0(0):26" />
+			<v:ud v:nameU="Arrow2Begin" v:val="VT0(0):26" />
+			<v:ud v:nameU="RailRightX" v:val="VT0(91.175748923736):21" />
+			<v:ud v:nameU="RailLeftX" v:val="VT0(-11.811023622047):21" />
+			<v:ud v:nameU="ArrowLoc" v:val="VT0(1):26" />
+			<v:ud v:nameU="3D_type" v:val="VT0(1):26" />
+			<v:ud v:nameU="3D_model_id" v:val="VT4(楼梯, 剪式)" />
+			<v:ud v:nameU="AntiScale" v:val="VT0(50):26" />
+			<v:ud v:nameU="HasText" v:val="VT0(0):5" />
+			<v:ud v:nameU="visVersion" v:val="VT0(12):26" />
+			<v:ud v:nameU="SolSH" v:val="VT4({5D50005D-537C-4738-9C46-130C74335A6D})" />
+			<v:ud v:nameU="ShapeClass" v:prompt="建筑物组件" v:val="VT0(3):26" />
+			<v:ud v:nameU="ShapeType" v:prompt="楼梯" v:val="VT0(39):26" />
+			<v:ud v:nameU="SubShapeType" v:val="VT0(0):26" />
+			<v:ud v:nameU="RailWidth" v:val="VT0(1.9685039370079):24" />
+		</v:userDefs>
+		<title>剪式楼梯.40</title>
+		<g id="shape41-86" v:mID="41" v:groupContext="shape" v:layerMember="0;5" transform="translate(97.2773,3216.85) rotate(180)">
+			<title>工作表.41</title>
+			<v:userDefs>
+				<v:ud v:nameU="DropOnPageScale" v:val="VT0(1):27" />
+				<v:ud v:nameU="ActualTreadWidth" v:val="VT0(11.25895027994):1" />
+				<v:ud v:nameU="MidpointOffset" v:val="VT0(0.98425196850394):24" />
+				<v:ud v:nameU="ShowTread16" v:val="VT0(63):26" />
+				<v:ud v:nameU="ShowTread32" v:val="VT0(0):26" />
+				<v:ud v:nameU="HideSegment" v:val="VT0(0):5" />
+				<v:ud v:nameU="SwapDir" v:val="VT0(1):5" />
+				<v:ud v:nameU="StaggerStep" v:val="VT0(0):5" />
+				<v:ud v:nameU="ActualTreadNumber" v:val="VT0(6):26" />
+			</v:userDefs>
+			<path d="M0 1614.09 L16.21 1614.09 L16.21 1683.78 L0 1683.78 L0 1614.09 Z M16.21 1614.09 L32.43 1614.09 L32.43 1683.78&#xD;&#xA;							 L16.21 1683.78 L16.21 1614.09 Z M32.43 1614.09 L48.64 1614.09 L48.64 1683.78 L32.43 1683.78 L32.43 1614.09&#xD;&#xA;							 Z M48.64 1614.09 L64.85 1614.09 L64.85 1683.78 L48.64 1683.78 L48.64 1614.09 Z M64.85 1614.09 L81.06&#xD;&#xA;							 1614.09 L81.06 1683.78 L64.85 1683.78 L64.85 1614.09 Z M81.06 1614.09 L97.28 1614.09 L97.28 1683.78&#xD;&#xA;							 L81.06 1683.78 L81.06 1614.09 Z" class="st6" />
+		</g>
+		<g id="shape42-88" v:mID="42" v:groupContext="shape" v:layerMember="0;5">
+			<title>工作表.42</title>
+			<v:userDefs>
+				<v:ud v:nameU="DropOnPageScale" v:val="VT0(1):27" />
+				<v:ud v:nameU="ActualTreadWidth" v:val="VT0(11.25895027994):1" />
+				<v:ud v:nameU="ShowTread16" v:val="VT0(63):26" />
+				<v:ud v:nameU="ShowTread32" v:val="VT0(0):26" />
+				<v:ud v:nameU="SwapDir" v:val="VT0(1):5" />
+				<v:ud v:nameU="StaggerStep" v:val="VT0(0):5" />
+			</v:userDefs>
+			<path d="M0 1614.09 L16.21 1614.09 L16.21 1683.78 L0 1683.78 L0 1614.09 Z M16.21 1614.09 L32.43 1614.09 L32.43 1683.78&#xD;&#xA;							 L16.21 1683.78 L16.21 1614.09 Z M32.43 1614.09 L48.64 1614.09 L48.64 1683.78 L32.43 1683.78 L32.43 1614.09&#xD;&#xA;							 Z M48.64 1614.09 L64.85 1614.09 L64.85 1683.78 L48.64 1683.78 L48.64 1614.09 Z M64.85 1614.09 L81.06&#xD;&#xA;							 1614.09 L81.06 1683.78 L64.85 1683.78 L64.85 1614.09 Z M81.06 1614.09 L97.28 1614.09 L97.28 1683.78&#xD;&#xA;							 L81.06 1683.78 L81.06 1614.09 Z" class="st6" />
+		</g>
+		<g id="shape43-90" v:mID="43" v:groupContext="shape" v:layerMember="0;5">
+			<title>工作表.43</title>
+			<v:userDefs>
+				<v:ud v:nameU="DropOnPageScale" v:val="VT0(1):27" />
+				<v:ud v:nameU="HideRail" v:val="VT0(0):5" />
+				<v:ud v:nameU="HideSegment" v:val="VT0(0):5" />
+				<v:ud v:nameU="FltSep" v:val="VT0(7.8740157480315):24" />
+				<v:ud v:nameU="RailWidth" v:val="VT0(1.9685039370079):24" />
+				<v:ud v:nameU="RailEndOffset" v:val="VT0(5.9055118110236):24" />
+			</v:userDefs>
+			<path d="M-17.01 1683.78 L-14.17 1683.78 A2.8346 2.8346 0 0 1 -11.34 1680.94 L125.62 1680.94 A2.8346 2.8346 0 0 1&#xD;&#xA;							 128.46 1683.78 L131.29 1683.78 A5.6692 5.6692 -180 0 0 125.62 1678.11 L-11.34 1678.11 A5.6692 5.6692&#xD;&#xA;							 -180 0 0 -17.01 1683.78 Z M-34.02 1533.07 L-31.18 1533.07 A2.8346 2.8346 -180 0 0 -28.35 1535.91 L108.62&#xD;&#xA;							 1535.91 A2.8346 2.8346 -180 0 0 111.45 1533.07 L114.29 1533.07 A5.6692 5.6692 0 0 1 108.62 1538.74 L-28.35&#xD;&#xA;							 1538.74 A5.6692 5.6692 0 0 1 -34.02 1533.07 Z M-5.67 1616.93 L102.95 1616.93 A2.8346 2.8346 -180 0 0&#xD;&#xA;							 105.78 1614.09 L105.78 1602.76 A2.8346 2.8346 -180 0 0 102.95 1599.92 L-5.67 1599.92 A2.8346 2.8346&#xD;&#xA;							 -180 0 0 -8.5 1602.76 L-8.5 1614.09 A2.8346 2.8346 -180 0 0 -5.67 1616.93 Z M-5.67 1619.76 L102.95 1619.76&#xD;&#xA;							 A5.6692 5.6692 -180 0 0 108.62 1614.09 L108.62 1602.76 A5.6692 5.6692 -180 0 0 102.95 1597.09 L-5.67&#xD;&#xA;							 1597.09 A5.6692 5.6692 -180 0 0 -11.34 1602.76 L-11.34 1614.09 A5.6692 5.6692 -180 0 0 -5.67 1619.76&#xD;&#xA;							 Z" class="st6" />
+		</g>
+		<g id="shape45-92" v:mID="45" v:groupContext="shape" v:layerMember="0;5" transform="translate(-26.7762,-30.0407)">
+			<title>工作表.45</title>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197" />
+			<v:textRect cx="12.5023" cy="1678.98" width="25.01" height="9.60356" />
+			<text x="4.5" y="1681.38" class="st7" v:langID="2052">
+				<v:paragraph v:horizAlign="1" />
+				<v:tabList />向上
+			</text>
+		</g>
+		<g id="shape46-94" v:mID="46" v:groupContext="shape" v:layerMember="0;5" transform="translate(-0.00486387,-34.8425)">
+			<title>工作表.46</title>
+			<v:userDefs>
+				<v:ud v:nameU="DropOnPageScale" v:val="VT0(1):27" />
+				<v:ud v:nameU="ArrowLinOffset" v:val="VT0(11.811023622047):24" />
+				<v:ud v:nameU="Width" v:val="VT0(67.553701679641):1" />
+			</v:userDefs>
+			<path d="M0 1683.78 L114.29 1683.78 L114.29 1602.76 L66.88 1602.76" class="st8" />
+		</g>
+		<g id="shape47-97" v:mID="47" v:groupContext="shape" v:layerMember="0;5" transform="translate(-0.00486387,-34.8425)">
+			<title>工作表.47</title>
+			<v:userDefs>
+				<v:ud v:nameU="H" v:val="VT0(9.8425196850394):24" />
+			</v:userDefs>
+			<path d="M70.42 1595.67 L66.88 1602.76 L70.42 1609.84" class="st8" />
+			<path d="M1.77 1682.01 L-1.77 1685.55" class="st8" />
+		</g>
+		<g id="shape48-101" v:mID="48" v:groupContext="shape" v:layerMember="0;5" transform="translate(30.2135,-81.0236)">
+			<title>工作表.48</title>
+			<v:userDefs>
+				<v:ud v:nameU="DropOnPageScale" v:val="VT0(1):27" />
+				<v:ud v:nameU="StairLineWeight" v:val="VT0(2.21):29" />
+			</v:userDefs>
+		</g>
+		<g id="shape49-103" v:mID="49" v:groupContext="shape" v:layerMember="0;5" transform="translate(30.2135,-81.0236)">
+			<title>工作表.49</title>
+			<v:userDefs>
+				<v:ud v:nameU="EdgeOffset" v:val="VT0(2.5590551181102):24" />
+				<v:ud v:nameU="DropOnPageScale" v:val="VT0(1):27" />
+			</v:userDefs>
+		</g>
+	</g>
+	<g id="shape50-105" v:mID="50" v:groupContext="shape" transform="translate(-1492.81,182.598) rotate(-90)">
+		<title>矩形.50</title>
+		<v:userDefs>
+			<v:ud v:nameU="visVersion" v:val="VT0(12):26" />
+		</v:userDefs>
+		<rect x="0" y="1586.5" width="171.26" height="97.2773" class="st9" />
+	</g>
+	<g id="shape51-107" v:mID="51" v:groupContext="shape" transform="translate(-1492.81,1655.43) rotate(-90)">
+		<title>矩形.51</title>
+		<v:userDefs>
+			<v:ud v:nameU="visVersion" v:val="VT0(12):26" />
+		</v:userDefs>
+		<rect x="0" y="1589.2" width="171.26" height="94.5752" class="st10" />
+	</g>
+	<g id="shape52-109" v:mID="52" v:groupContext="shape" transform="translate(-720,1655.43) rotate(-90)">
+		<title>矩形.52</title>
+		<v:userDefs>
+			<v:ud v:nameU="visVersion" v:val="VT0(12):26" />
+		</v:userDefs>
+		<rect x="0" y="1586.5" width="171.26" height="97.2773" class="st10" />
+	</g>
+	<g id="shape53-111" v:mID="53" v:groupContext="shape" transform="translate(-720,182.598) rotate(-90)">
+		<title>矩形.53</title>
+		<v:userDefs>
+			<v:ud v:nameU="visVersion" v:val="VT0(12):26" />
+		</v:userDefs>
+		<rect x="0" y="1572.99" width="171.26" height="110.788" class="st9" />
+	</g>
+	<g id="shape54-113" v:mID="54" v:groupContext="shape" transform="translate(-1319.88,1655.43) rotate(-90)">
+		<a onclick="news03216()">
+		<title>矩形.54</title>
+		<desc>216</desc>
+		<v:userDefs>
+			<v:ud v:nameU="visVersion" v:val="VT0(12):26" />
+		</v:userDefs>
+		<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197" />
+		<v:textRect cx="85.6299" cy="1597.31" width="172.94" height="171.26" transform="rotate(90)" />
+		<rect x="0" y="1510.84" width="171.26" height="172.937" class="st1" />
+		<text x="1561.31" y="-71.23" transform="rotate(90)" class="st11" v:langID="2052">
+			<v:paragraph v:horizAlign="1" />
+			<v:tabList />216
+		</text>
+		</a>
+	</g>
+	<g id="shape55-116" v:mID="55" v:groupContext="shape" transform="translate(-830.788,182.598) rotate(-90)">
+		<a onclick="news03207()">
+			<title>矩形.55</title>
+			<desc>207</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(12):26" />
+			</v:userDefs>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197" />
+			<v:textRect cx="85.6299" cy="1595.96" width="175.64" height="171.26" transform="rotate(90)" />
+			<rect x="0" y="1508.14" width="171.26" height="175.64" class="st1" />
+			<text x="1559.96" y="-71.23" transform="rotate(90)" class="st11" v:langID="2052">
+				<v:paragraph v:horizAlign="1" />
+				<v:tabList />207
+			</text>
+		</a>
+	</g>
+	<g id="shape56-119" v:mID="56" v:groupContext="shape" transform="translate(-1330.69,182.598) rotate(-90)">
+		<a onclick="news03209()">
+			<title>矩形.56</title>
+			<desc>209</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(12):26" />
+			</v:userDefs>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197" />
+			<v:textRect cx="85.6299" cy="1602.72" width="162.13" height="171.26" transform="rotate(90)" />
+			<rect x="0" y="1521.65" width="171.26" height="162.129" class="st1" />
+			<text x="1566.71" y="-71.23" transform="rotate(90)" class="st11" v:langID="2052">
+				<v:paragraph v:horizAlign="1" />
+				<v:tabList />209
+			</text>
+		</a>
+	</g>
+	<g id="shape210-122" v:mID="210" v:groupContext="shape" transform="translate(-817.277,1655.43) rotate(-90)">
+		<a onclick="news03201()">
+			<title>矩形.210</title>
+			<desc>201</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(12):26" />
+			</v:userDefs>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197" />
+			<v:textRect cx="85.6299" cy="1597.99" width="171.59" height="171.26" transform="rotate(90)" />
+			<rect x="0" y="1512.19" width="171.26" height="171.586" class="st1" />
+			<text x="1561.99" y="-71.23" transform="rotate(90)" class="st11" v:langID="2052">
+				<v:paragraph v:horizAlign="1" />
+				<v:tabList />201
+			</text>
+		</a>
+	</g>
+	<g id="shape211-125" v:mID="211" v:groupContext="shape" transform="translate(-1614.41,1090.28) rotate(-90)">
+		<title>矩形.211</title>
+		<v:userDefs>
+			<v:ud v:nameU="visVersion" v:val="VT0(12):26" />
+		</v:userDefs>
+		<rect x="0" y="1629.74" width="68.5039" height="54.043" class="st12" />
+	</g>
+	<g id="shape212-127" v:mID="212" v:groupContext="shape" transform="translate(-1614.41,782.008) rotate(-90)">
+		<title>矩形.212</title>
+		<v:userDefs>
+			<v:ud v:nameU="visVersion" v:val="VT0(12):26" />
+		</v:userDefs>
+		<rect x="0" y="1629.74" width="68.5039" height="54.043" class="st13" />
+	</g>
+	<g id="shape213-129" v:mID="213" v:groupContext="shape" transform="translate(-1614.41,1364.29) rotate(-90)">
+		<title>矩形.213</title>
+		<v:userDefs>
+			<v:ud v:nameU="visVersion" v:val="VT0(12):26" />
+		</v:userDefs>
+		<rect x="0" y="1629.74" width="68.5039" height="54.043" class="st14" />
+	</g>
+	<g id="shape214-131" v:mID="214" v:groupContext="shape" v:layerMember="6" transform="translate(-1609.01,1278.66) rotate(-90)">
+		<title>12 磅的文本.214</title>
+		<desc>男厕</desc>
+		<v:userDefs>
+			<v:ud v:nameU="AntiScale" v:val="VT0(50):26" />
+			<v:ud v:nameU="AutoWidth" v:val="VT0(112.5895027994):1" />
+			<v:ud v:nameU="WidthIncrement" v:val="VT0(22.51790055988):1" />
+			<v:ud v:nameU="visVersion" v:val="VT0(12):26" />
+		</v:userDefs>
+		<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197" />
+		<v:textRect cx="83.061" cy="1651.35" width="166.13" height="64.8516" />
+		<rect x="0" y="1618.93" width="166.122" height="64.8516" class="st15" />
+		<text x="23.06" y="1669.35" class="st2" v:langID="2052">
+			<v:paragraph v:horizAlign="1" />
+			<v:tabList />男厕
+		</text>
+	</g>
+	<g id="shape215-134" v:mID="215" v:groupContext="shape" v:layerMember="6" transform="translate(-1609.01,994.37) rotate(-90)">
+		<title>12 磅的文本.215</title>
+		<desc>女厕</desc>
+		<v:userDefs>
+			<v:ud v:nameU="AntiScale" v:val="VT0(50):26" />
+			<v:ud v:nameU="AutoWidth" v:val="VT0(112.5895027994):1" />
+			<v:ud v:nameU="WidthIncrement" v:val="VT0(22.51790055988):1" />
+			<v:ud v:nameU="visVersion" v:val="VT0(12):26" />
+		</v:userDefs>
+		<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197" />
+		<v:textRect cx="83.061" cy="1651.35" width="166.13" height="64.8516" />
+		<rect x="0" y="1618.93" width="166.122" height="64.8516" class="st15" />
+		<text x="23.06" y="1669.35" class="st2" v:langID="2052">
+			<v:paragraph v:horizAlign="1" />
+			<v:tabList />女厕
+		</text>
+	</g>
+	<g id="shape216-137" v:mID="216" v:groupContext="shape" v:layerMember="6" transform="translate(-1609.01,690.384) rotate(-90)">
+		<title>12 磅的文本.216</title>
+		<desc>办公室</desc>
+		<v:userDefs>
+			<v:ud v:nameU="AntiScale" v:val="VT0(50):26" />
+			<v:ud v:nameU="AutoWidth" v:val="VT0(157.62530391916):1" />
+			<v:ud v:nameU="WidthIncrement" v:val="VT0(22.51790055988):1" />
+			<v:ud v:nameU="visVersion" v:val="VT0(12):26" />
+		</v:userDefs>
+		<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197" />
+		<v:textRect cx="116.885" cy="1651.35" width="233.77" height="64.8516" />
+		<rect x="0" y="1618.93" width="233.77" height="64.8516" class="st15" />
+		<text x="26.88" y="1669.35" class="st2" v:langID="2052">
+			<v:paragraph v:horizAlign="1" />
+			<v:tabList />办公室
+		</text>
+	</g>
+	<g id="shape1-140" v:mID="1" v:groupContext="shape" transform="translate(-1033.45,1655.43) rotate(-90)">
+		<a onclick="news03217()">
+			<title>矩形</title>
+			<desc>217</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(12):26" />
+			</v:userDefs>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197" />
+			<v:textRect cx="205.512" cy="1562.18" width="243.2" height="411.024" transform="rotate(90)" />
+			<rect x="0" y="1440.59" width="411.024" height="243.193" class="st1" />
+			<text x="1517.18" y="-187.51" transform="rotate(90)" class="st2" v:langID="2052">
+				<v:paragraph v:horizAlign="1" />
+				<v:tabList />217
+			</text>
+		</a>
+	</g>
+	<g id="shape58-143" v:mID="58" v:groupContext="shape" transform="translate(-1046.96,422.362) rotate(-90)">
+		<a onclick="news03208()">
+			<title>矩形.58</title>
+			<desc>208</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(12):26" />
+			</v:userDefs>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197" />
+			<v:textRect cx="205.512" cy="1562.18" width="243.2" height="411.024" transform="rotate(90)" />
+			<rect x="0" y="1440.59" width="411.024" height="243.193" class="st1" />
+			<text x="1517.18" y="-187.51" transform="rotate(90)" class="st2" v:langID="2052">
+				<v:paragraph v:horizAlign="1" />
+				<v:tabList />208
+			</text>
+		</a>
+	</g>
+	<g id="shape59-146" v:mID="59" v:groupContext="shape" transform="translate(390.924,-531.422)">
+		<title>圆角矩形</title>
+		<v:userDefs>
+			<v:ud v:nameU="WatchCH1" v:val="VT0(91.04330709):1" />
+			<v:ud v:nameU="MaxRoundess" v:val="VT0(93.824585666168):1" />
+			<v:ud v:nameU="visVersion" v:val="VT0(12):26" />
+		</v:userDefs>
+		<path d="M0 1552.68 L0 1176.94 A135.107 131.102 0 0 1 270.21 1176.94 L270.21 1552.68 A135.107 131.102 0 1 1 0 1552.68&#xD;&#xA;						 Z" class="st16" />
+	</g>
+	<g id="shape60-148" v:mID="60" v:groupContext="shape" transform="translate(-1357.71,970.394) rotate(-90)">
+		<a onclick="news03212()">
+			<title>矩形.60</title>
+			<desc>212</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(12):26" />
+			</v:userDefs>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197" />
+			<v:textRect cx="137.008" cy="1595.96" width="175.64" height="274.016" transform="rotate(90)" />
+			<rect x="0" y="1508.14" width="274.016" height="175.64" class="st1" />
+			<text x="1550.96" y="-119.01" transform="rotate(90)" class="st2" v:langID="2052">
+				<v:paragraph v:horizAlign="1" />
+				<v:tabList />212
+			</text>
+		</a>
+	</g>
+	<g id="shape61-151" v:mID="61" v:groupContext="shape" transform="translate(-776.745,990.945) rotate(-90)">
+		<a onclick="news03204()">
+			<title>矩形.61</title>
+			<desc>204</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(12):26" />
+			</v:userDefs>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197" />
+			<v:textRect cx="140.433" cy="1595.96" width="175.64" height="280.866" transform="rotate(90)" />
+			<rect x="0" y="1508.14" width="280.866" height="175.64" class="st1" />
+			<text x="1550.96" y="-122.43" transform="rotate(90)" class="st2" v:langID="2052">
+				<v:paragraph v:horizAlign="1" />
+				<v:tabList />204
+			</text>
+		</a>
+	</g>
+	<g id="shape217-154" v:mID="217" v:groupContext="shape" transform="translate(-1465.79,1312.91) rotate(-90)">
+		<a onclick="news03214()">
+			<title>矩形.217</title>
+			<desc>214</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(12):26" />
+			</v:userDefs>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197" />
+			<v:textRect cx="34.252" cy="1636.49" width="94.58" height="68.5039" transform="rotate(90)" />
+			<rect x="0" y="1589.2" width="68.5039" height="94.5752" class="st3" />
+			<text x="1622.99" y="-28.85" transform="rotate(90)" class="st5" v:langID="2052">
+				<v:paragraph v:horizAlign="1" />
+				<v:tabList />214
+			</text>
+		</a>
+	</g>
+	<g id="shape218-157" v:mID="218" v:groupContext="shape" transform="translate(362.013,-28.3465)">
+		<title>可延长的线条</title>
+		<v:userDefs>
+			<v:ud v:nameU="AntiScale" v:val="VT0(50):26" />
+			<v:ud v:nameU="visVersion" v:val="VT0(12):26" />
+		</v:userDefs>
+		<path d="M0.57 1683.78 L48.22 1683.78" class="st17" />
+	</g>
+	<g id="shape219-160" v:mID="219" v:groupContext="shape" transform="translate(650.33,-28.3465)">
+		<title>可延长的线条.219</title>
+		<v:userDefs>
+			<v:ud v:nameU="AntiScale" v:val="VT0(50):26" />
+			<v:ud v:nameU="visVersion" v:val="VT0(12):26" />
+		</v:userDefs>
+		<path d="M0.57 1683.78 L53.09 1683.78" class="st17" />
+	</g>
+	<g id="shape220-163" v:mID="220" v:groupContext="shape" transform="translate(633.985,-1672.44)">
+		<title>可延长的线条.220</title>
+		<v:userDefs>
+			<v:ud v:nameU="AntiScale" v:val="VT0(50):26" />
+			<v:ud v:nameU="visVersion" v:val="VT0(12):26" />
+		</v:userDefs>
+		<path d="M0.57 1683.78 L51.87 1683.78" class="st17" />
+	</g>
+	<g id="shape221-166" v:mID="221" v:groupContext="shape" transform="translate(350.968,-1672.44)">
+		<title>可延长的线条.221</title>
+		<v:userDefs>
+			<v:ud v:nameU="AntiScale" v:val="VT0(50):26" />
+			<v:ud v:nameU="visVersion" v:val="VT0(12):26" />
+		</v:userDefs>
+		<path d="M0.57 1683.78 L51.16 1683.78" class="st17" />
+	</g>
+	<g id="shape222-169" v:mID="222" v:groupContext="shape" transform="translate(-1590.09,1484.17) rotate(-90)">
+		<title>可延长的线条.222</title>
+		<v:userDefs>
+			<v:ud v:nameU="AntiScale" v:val="VT0(50):26" />
+			<v:ud v:nameU="visVersion" v:val="VT0(12):26" />
+		</v:userDefs>
+		<path d="M-14.17 1683.78 L1364.17 1683.78" class="st18" />
+	</g>
+	<g id="shape223-172" v:mID="223" v:groupContext="shape" transform="translate(-720,1518.43) rotate(-90)">
+		<title>可延长的线条.223</title>
+		<v:userDefs>
+			<v:ud v:nameU="AntiScale" v:val="VT0(50):26" />
+			<v:ud v:nameU="visVersion" v:val="VT0(12):26" />
+		</v:userDefs>
+		<path d="M-14.17 1683.78 L1369.84 1683.78" class="st18" />
+	</g>
+</svg>

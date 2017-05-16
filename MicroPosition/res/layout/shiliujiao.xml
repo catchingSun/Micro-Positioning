@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TabHost xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@android:id/tabhost"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+
+<LinearLayout
+    android:id="@+id/context"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+     <TabWidget 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0"
+        android:orientation="horizontal"
+        android:id="@android:id/tabs"
+        ></TabWidget>
+    <FrameLayout 
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:id="@android:id/tabcontent"
+        >
+        
+        
+        
+      <!--   在framwlayout中添加了三个linerlayout
+                                      分别为页面一，页面二，页面三
+       -->
+        <LinearLayout 
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/LinearLayout1"
+            android:background="#FFFFFF"
+            android:orientation="horizontal"
+             android:layout_weight="1">
+            >
+       <WebView
+        android:id="@+id/webView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"/>
+       <ListView 
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"   
+           android:id="@+id/ListView1"
+           android:layout_weight="2"
+           android:gravity="center">  
+        </ListView> 
+        </LinearLayout>
+        
+         <LinearLayout 
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/LinearLayout2"
+            android:background="#FFFFFF"
+            android:orientation="horizontal"
+            >
+           <WebView
+        android:id="@+id/webView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+         android:layout_weight="1"
+         android:gravity="center"/>
+       <ListView 
+           android:layout_width="wrap_content"   
+           android:layout_height="wrap_content"   
+           android:id="@+id/ListView2"
+           android:layout_weight="2"
+           android:gravity="center">  
+        </ListView> 
+         </LinearLayout>
+         <LinearLayout 
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/LinearLayout3"
+            android:background="#FFFFFF"
+            android:orientation="horizontal"
+            >
+            <WebView
+        android:id="@+id/webView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" 
+        android:layout_weight="1"
+        android:gravity="center"/>
+       <ListView 
+           android:layout_width="wrap_content"   
+           android:layout_height="wrap_content"   
+           android:id="@+id/ListView3"
+           android:layout_weight="2"
+           android:gravity="center">  
+        </ListView> 
+         </LinearLayout>
+        
+         <LinearLayout 
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/LinearLayout4"
+            android:background="#FFFFFF"
+            android:orientation="horizontal"
+            >
+          <WebView
+        android:id="@+id/webView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+         android:layout_weight="1"
+         android:gravity="center"/>
+       <ListView 
+           android:layout_width="wrap_content"   
+           android:layout_height="wrap_content"   
+           android:id="@+id/ListView4"
+           android:layout_weight="2"
+           android:gravity="center">  
+        </ListView> 
+        
+         </LinearLayout>
+         
+         <LinearLayout 
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/LinearLayout5"
+            android:background="#FFFFFF"
+            android:orientation="horizontal"
+            >
+          <WebView
+        android:id="@+id/webView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" 
+        android:layout_weight="1"
+        android:gravity="center"/>
+       <ListView 
+           android:layout_width="wrap_content"   
+           android:layout_height="wrap_content"   
+           android:id="@+id/ListView5"
+           android:layout_weight="2"
+           android:gravity="center">  
+        </ListView> 
+         </LinearLayout>
+    </FrameLayout>
+      
+    
+</LinearLayout>
+</TabHost>

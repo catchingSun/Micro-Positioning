@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">微定位</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="floor">
+    <item>1教</item>
+    <item>2教</item>
+    <item>3教</item>
+    <item>实验楼</item>
+    <item>9教</item>
+    <item>10教</item>
+    <item>11教</item>
+    <item>12教</item>
+    <item>13教</item>
+    <item>14教</item>
+    <item>15教</item>
+    <item>16教</item>
+    <item>17教</item>
+    <item>18教</item>
+    <item>行政楼</item>
+    <item>综合楼</item>
+</string-array>
+	<string name="start_station">起点</string>
+	<string name="end_station">终点</string>
+	<string name="ok">确定</string>
+	<string name="cancle">取消</string>
+	<string name="scan_qrcode">扫描二维码</string>
+	<string name="scan_phone_qrcode">扫描本地二维码</string>
+	<string name="share">"分享"</string>
+
+</resources>

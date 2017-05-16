@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.webexample.MainActivity" >
+		        <item
+		            android:id="@+id/location"
+		            android:title="分享位置"
+		            />
+
+		         <item
+		            android:id="@+id/photo"
+		            android:title="拍照"
+		            />
+		         <item
+		             android:id="@+id/route"
+		             android:title="路径规划"
+		            />
+		         <item 
+		             android:id="@+id/menu_room_message"
+		             android:title="楼宇各房间信息"
+		            />"
+		  
+</menu>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.qrcode.location"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="21" />
+    
+   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />  
+    
+	<uses-permission android:name="android.permission.VIBRATE" />
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>  <!-- 获得读取sdk权限 -->
+    <uses-permission android:name="young.permission.START_SERVICE" />
+
+    <uses-permission android:name="android.permission.FLASHLIGHT" />
+    <uses-permission android:name="android.permission.INTERNET" /> <!-- 访问网络 -->
+    <uses-permission android:name="android.permission.CAMERA" /> <!-- 调用手机相机 -->
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" /> <!-- 在SDCard中创建与删除文件权限 -->
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    
+    <application
+        android:allowBackup="false"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:theme="@style/AppBaseTheme" >
+        <activity
+            android:name="com.qrcode.location.MainActivity"
+            android:icon="@drawable/logo"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                       
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.qrcode.location.setqrcode.CreateQRcode"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.SetQRcode" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.qrcode.location.routeplan.RoutePlanActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.RoutePlanActivity" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+       	<activity
+            android:name="com.qrcode.location.ViewMap"
+            >
+            <intent-filter>
+                <action android:name="android.intent.action.ViewMap" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+         <activity
+            android:name="com.xike.sceneryview.SceneryView"
+            android:theme="@style/AppTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.SceneryView" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+       </activity>
+       <activity
+            android:name="com.qrcode.location.map.MapActivity"
+            android:theme="@style/AppTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MapActivity" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+       </activity>
+       <activity
+            android:name="com.qrcode.location.room.BuildingsActivity"
+            android:label="@style/AppTheme" >
+       </activity>
+        <activity
+            android:name="com.zxing.activity.AnalyseQRcode"
+            android:theme="@style/AppTheme">
+        </activity>
+     
+         <activity
+            android:configChanges="orientation|keyboardHidden"
+            android:name="com.zxing.activity.CaptureActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
+            android:windowSoftInputMode="stateAlwaysHidden" >
+        </activity>
+        <service
+            android:exported="false"
+            android:permission="young.permission.START_SERVICE" 
+            android:name="com.position.coordinate.service.PositionCoordinateService"
+            android:enabled="true" >
+            <intent-filter>
+                <action android:name="qrp" >
+                </action>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </service>
+    </application>
+	
+</manifest>

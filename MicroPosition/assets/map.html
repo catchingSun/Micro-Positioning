@@ -1,0 +1,214 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!--<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=10,user-scalable=yes" />-->
+<title>无标题文档</title>
+	<style>
+		.imagesvg{
+			width: 800px;
+			height: 1306px;
+      margin: 0px;
+      padding: 0px;
+			background: white url(images/keda.svg) no-repeat ;
+		}
+   	 #svg_obj{
+      		margin: 0px;
+      		padding: 0px;
+    }
+	</style>
+  <script src="js/jquery.min.js" type="text/javascript"></script>
+  <script src="js/snap.svg-min.js" type="text/javascript"></script>
+</head>
+
+  <body onload="javascript:setLocationSVG.init()">
+    <p>
+  	 <div class="imagesvg">
+<!--		<img src="image/keda.svg" width="480dp" height="800dp" />
+-->		<svg id="svg_obj" version="1.1"
+		  xmlns="http://www.w3.org/2000/svg" 
+		  style="width:800px;height:1306px;border: none;">
+        <path id="Route" fill="none" stroke="red" stroke-width="6"></path>
+      </svg>
+     </div>
+   </p>
+  </body>
+ <script type="text/javascript">
+function drawLineArrow(x1,y1,x2,y2){
+    var path;
+      var slopy,cosy,siny;
+    var Par=10.0;
+      var x3,y3;
+    slopy=Math.atan2((y1-y2),(x1-x2));   
+      cosy=Math.cos(slopy);   
+      siny=Math.sin(slopy); 
+     
+      path="M"+x1+","+y1+" L"+x2+","+y2 ;
+       
+      x3=(Number(x1)+Number(x2))/2;
+    y3=(Number(y1)+Number(y2))/2;
+
+    path +=" M"+x3+","+y3;
+    
+    path +=" L"+(Number(x3)+Number(Par*cosy-(Par/2.0*siny)))+","+(Number(y3)+Number(Par*siny+(Par/2.0*cosy)));
+
+    path +=" M"+(Number(x3)+Number(Par*cosy+Par/2.0*siny)+","+ (Number(y3)-Number(Par/2.0*cosy-Par*siny)));
+    path +=" L"+x3+","+y3;
+
+    return path;
+}
+  function loadFunction(data){
+    data = JSON.parse(data);//先将字符串转化为对象，在进行解析
+    var isOpenFromQRcode = "false";
+    var isOpenFromRoutePlan ="false";
+    var location = "";
+    var abscissa = -1;
+    var ordinate = -1;
+    var RoutePointOrder = "";
+    var RoutePointX = "";
+    var RoutePointY = "";
+    var RoutePointOrderArray;
+    var RoutePointXArray;
+    var RoutePointYArray;
+    var EndLocationX;
+    var StartLocationX;
+    var EndLocationY;
+    var StartLocationY;
+ //   alert("loadfunction");
+    isOpenFromRoutePlan = data[0].isOpenFromRoutePlan;
+    
+    isOpenFromQRcode = data[0].isOpenFromQRcode;
+   //alert("loadfunction"+isOpenFromRoutePlan+isOpenFromQRcode);
+    if(isOpenFromQRcode == "true"){
+        location = data[1].location;
+        abscissa = parseInt(data[1].abscissa,10);
+        ordinate = parseInt(data[1].ordinate,10);
+        
+      }
+
+    if(isOpenFromRoutePlan == "true"){
+        RoutePointY = data[1].RoutePointY;
+        RoutePointX = data[1].RoutePointX;
+        RoutePointOrder = data[1].RoutePointOrder;
+        
+        StartLocationX = data[1].StartLocationX;
+        StartLocationY = data[1].StartLocationY;
+        EndLocationX = data[1].EndLocationX;
+        EndLocationY = data[1].EndLocationY;
+
+        RoutePointXArray = RoutePointX.slice(1,RoutePointX.length-1);//去掉"["
+        RoutePointXArray = RoutePointXArray.split(", ");//去掉", "
+       
+        RoutePointYArray = RoutePointY.slice(1,RoutePointY.length-1);
+        RoutePointYArray = RoutePointYArray.split(", ");//去掉", "
+
+        RoutePointOrderArray = RoutePointOrder.slice(1,RoutePointOrder.length-1);
+        RoutePointOrderArray = RoutePointOrderArray.split(", ");
+      }
+      //通过eval方法处理得到json对象数组
+      if(isOpenFromQRcode == "false" && isOpenFromRoutePlan == "false"){
+        init();
+      }
+      if(isOpenFromQRcode == "true"){
+        loadPosition(location,abscissa,ordinate);
+      }
+      if(isOpenFromRoutePlan == "true"){
+        drawPath(RoutePointXArray,RoutePointYArray);
+      //  drawRoute(RoutePointXArray,RoutePointYArray);
+        drawStartPosition(StartLocationX,StartLocationY);
+        drawEndPosition(EndLocationX,EndLocationY);
+      }
+    }
+function setStringToInt(str){
+  str = parseInt(str,10);
+  return str;
+}
+  function drawPath(RoutePointXArray,RoutePointYArray) {
+  var path = "";
+  var svg = Snap("#svg_obj");
+  for(var i = 1;i < RoutePointXArray.length; i++){
+    path = path + drawLineArrow(setStringToInt(RoutePointXArray[i-1]),setStringToInt(RoutePointYArray[i-1]),setStringToInt(RoutePointXArray[i]),setStringToInt(RoutePointYArray[i]));
+    svg.paper.path(path).attr({
+      stroke: "red",
+      fill: "none",
+      strokeWidth: 3
+  });
+  }
+}
+
+  function drawRoute (RoutePointXArray,RoutePointYArray) {//绘制路径
+  //    alert("drawRoute");
+        var value = "";
+        for(var i = 0; i < RoutePointXArray.length; i++){
+          if(i == 0){
+            value = "M "+ RoutePointXArray[i] + " " + RoutePointYArray[i] + " L ";
+          }
+          else {
+            value = value + " "+ RoutePointXArray[i] + "," + RoutePointYArray[i] ;
+          }
+        }
+      Route.setAttribute('d', value);
+    }
+
+  function drawStartPosition(StartLocationX,StartLocationY){
+  	var xmlns = "http://www.w3.org/2000/svg";  
+    var tsvg_obj = document.getElementById("svg_obj");
+    var svg_img = document.createElementNS(xmlns,"image");
+    svg_img.href.baseVal = "images/StartLocation.svg";
+    svg_img.setAttributeNS(null,"x",StartLocationX);
+    svg_img.setAttributeNS(null,"y",StartLocationY);
+    svg_img.setAttributeNS(null,"width","20.5px");
+    svg_img.setAttributeNS(null,"height","30px");
+    tsvg_obj.appendChild(svg_img);
+  }
+
+function drawEndPosition(EndLocationX,EndLocationY){
+  	var xmlns = "http://www.w3.org/2000/svg";  
+    var tsvg_obj = document.getElementById("svg_obj");
+    var svg_img = document.createElementNS(xmlns,"image");
+    svg_img.href.baseVal = "images/EndLocation.svg";
+    svg_img.setAttributeNS(null,"x",EndLocationX);
+    svg_img.setAttributeNS(null,"y",EndLocationY);
+    svg_img.setAttributeNS(null,"width","20.5px");
+    svg_img.setAttributeNS(null,"height","30px");
+    tsvg_obj.appendChild(svg_img);
+  }
+
+function loadPosition(location,abscissa,ordinate)
+  {
+
+        var xmlns = "http://www.w3.org/2000/svg";
+        var tsvg_obj = document.getElementById("svg_obj");
+        var svg_img = document.createElementNS(xmlns,"image");
+        svg_img.href.baseVal = "images/biaoji.svg";
+        svg_img.setAttributeNS(null,"x",abscissa);
+        svg_img.setAttributeNS(null,"y",ordinate);
+        svg_img.setAttributeNS(null,"width","20px");
+        svg_img.setAttributeNS(null,"height","33.5px");
+        tsvg_obj.appendChild(svg_img);
+  //      }
+     alert("这里是"+location);
+     return;
+  }
+
+  function init()
+  {
+      svg_obj.onclick = function(event)
+      {
+        var touchX = event.pageX-20;//得到添加标注的横坐标
+        var touchY = event.pageY-45;//纵坐标
+        var xmlns = "http://www.w3.org/2000/svg";  
+        var tsvg_obj = document.getElementById("svg_obj");
+        var svg_img = document.createElementNS(xmlns,"image");
+        svg_img.href.baseVal = "images/biaozhu.svg";
+        svg_img.setAttributeNS(null,"x",touchX);
+        svg_img.setAttributeNS(null,"y",touchY);
+        svg_img.setAttributeNS(null,"width","20.5px");
+        svg_img.setAttributeNS(null,"height","30px");
+        tsvg_obj.appendChild(svg_img);
+     }
+ //    alert("横坐标："+touchX+"纵坐标："+touchY);
+     return;
+  }
+  </script>
+</html>
